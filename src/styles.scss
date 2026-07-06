@@ -1,1 +1,45 @@
-/* You can add global styles to this file, and also import other style files */
+@use '@angular/material' as mat;
+
+html {
+  height: 100%;
+
+  @include mat.theme(
+    (
+      color: (
+        primary: mat.$azure-palette,
+        tertiary: mat.$blue-palette,
+      ),
+      typography: (
+        plain-family: 'IBM Plex Sans',
+        brand-family: 'Barlow Condensed',
+      ),
+      density: 0,
+    )
+  );
+}
+
+:root {
+  /* === Backround === */
+  --color-background: #e8e0d2;
+  --color-surface: #f6f1e8;
+  --color-suface-secondary: #ddd3c2;
+
+  /* === Text === */
+  --color-text: #332b25;
+  --color-text-secondary: #6d6256;
+  --font-display: 'Barlow Condensed', sans-serif;
+  --font-body: 'IBM Plex Sans', sans-serif;
+
+  /* === Borders === */
+  --color-border: #c9bcaa;
+
+  /* === Primary === */
+  --color-primary: #c44c28;
+  --color-primary-hover: #a73f20;
+  --color-primary-active: #8f341a;
+  --color-primary-light: #d97757;
+}
+
+body {
+  background-color: var(--color-background);
+}

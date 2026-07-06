@@ -1,0 +1,4579 @@
+{
+  "players": [
+    {
+      "id": "0i",
+      "nick": "0i",
+      "country": "China"
+    },
+    {
+      "id": "1962",
+      "nick": "1962",
+      "country": "Argentina"
+    },
+    {
+      "id": "1uke",
+      "nick": "1uke",
+      "country": "Russia"
+    },
+    {
+      "id": "abE",
+      "nick": "abE",
+      "country": "United States"
+    },
+    {
+      "id": "ableJ",
+      "nick": "ableJ",
+      "country": "Brazil"
+    },
+    {
+      "id": "Ace",
+      "nick": "Ace",
+      "country": "United States"
+    },
+    {
+      "id": "AcilioN",
+      "nick": "AcilioN",
+      "country": "Denmark"
+    },
+    {
+      "id": "acoR",
+      "nick": "acoR",
+      "country": "Denmark"
+    },
+    {
+      "id": "Adam9130",
+      "nick": "Adam9130",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "adreN",
+      "nick": "adreN",
+      "country": "United States"
+    },
+    {
+      "id": "AdreN",
+      "nick": "AdreN",
+      "country": "Kazakhstan"
+    },
+    {
+      "id": "advent",
+      "nick": "advent",
+      "country": "China"
+    },
+    {
+      "id": "Aerial",
+      "nick": "Aerial",
+      "country": "Finland"
+    },
+    {
+      "id": "afro",
+      "nick": "afro",
+      "country": "France"
+    },
+    {
+      "id": "AiyvaN",
+      "nick": "AiyvaN",
+      "country": "Ukraine"
+    },
+    {
+      "id": "aizy",
+      "nick": "aizy",
+      "country": "Denmark"
+    },
+    {
+      "id": "akez",
+      "nick": "akez",
+      "country": "Norway"
+    },
+    {
+      "id": "Aleksib",
+      "nick": "Aleksib",
+      "country": "Finland"
+    },
+    {
+      "id": "alex",
+      "nick": "alex",
+      "country": "Spain"
+    },
+    {
+      "id": "ALEX",
+      "nick": "ALEX",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "alexRr",
+      "nick": "alexRr",
+      "country": "Germany"
+    },
+    {
+      "id": "aliStair",
+      "nick": "aliStair",
+      "country": "Australia"
+    },
+    {
+      "id": "ALLE",
+      "nick": "ALLE",
+      "country": "Brazil"
+    },
+    {
+      "id": "allu",
+      "nick": "allu",
+      "country": "Finland"
+    },
+    {
+      "id": "almazer",
+      "nick": "almazer",
+      "country": "Russia"
+    },
+    {
+      "id": "AMANEK",
+      "nick": "AMANEK",
+      "country": "France"
+    },
+    {
+      "id": "anarkez",
+      "nick": "anarkez",
+      "country": "Israel"
+    },
+    {
+      "id": "ANDROID",
+      "nick": "ANDROID",
+      "country": "Canada"
+    },
+    {
+      "id": "ANGE1",
+      "nick": "ANGE1",
+      "country": "Ukraine"
+    },
+    {
+      "id": "anger",
+      "nick": "anger",
+      "country": "United States"
+    },
+    {
+      "id": "AnJ",
+      "nick": "AnJ",
+      "country": "Denmark"
+    },
+    {
+      "id": "Annihilation",
+      "nick": "Annihilation",
+      "country": "Mongolia"
+    },
+    {
+      "id": "ap0c",
+      "nick": "ap0c",
+      "country": "Australia"
+    },
+    {
+      "id": "apEX",
+      "nick": "apEX",
+      "country": "France"
+    },
+    {
+      "id": "apocdud",
+      "nick": "apocdud",
+      "country": "Australia"
+    },
+    {
+      "id": "aproto",
+      "nick": "aproto",
+      "country": "United States"
+    },
+    {
+      "id": "arch",
+      "nick": "arch",
+      "country": "Ukraine"
+    },
+    {
+      "id": "arki",
+      "nick": "arki",
+      "country": "Spain"
+    },
+    {
+      "id": "arT",
+      "nick": "arT",
+      "country": "Brazil"
+    },
+    {
+      "id": "arvid",
+      "nick": "arvid",
+      "country": "Finland"
+    },
+    {
+      "id": "arya",
+      "nick": "arya",
+      "country": "United States"
+    },
+    {
+      "id": "astaRR",
+      "nick": "astaRR",
+      "country": "India"
+    },
+    {
+      "id": "Attacker",
+      "nick": "Attacker",
+      "country": "China"
+    },
+    {
+      "id": "aumaN",
+      "nick": "aumaN",
+      "country": "China"
+    },
+    {
+      "id": "autimatic",
+      "nick": "autimatic",
+      "country": "United States"
+    },
+    {
+      "id": "aVN",
+      "nick": "aVN",
+      "country": "Serbia"
+    },
+    {
+      "id": "Ax1Le",
+      "nick": "Ax1Le",
+      "country": "Russia"
+    },
+    {
+      "id": "ayaya",
+      "nick": "ayaya",
+      "country": "China"
+    },
+    {
+      "id": "AZK",
+      "nick": "AZK",
+      "country": null
+    },
+    {
+      "id": "AZR",
+      "nick": "AZR",
+      "country": "Australia"
+    },
+    {
+      "id": "b0denmaster",
+      "nick": "b0denmaster",
+      "country": "Sweden"
+    },
+    {
+      "id": "b0RUP",
+      "nick": "b0RUP",
+      "country": "Denmark"
+    },
+    {
+      "id": "B1ad3",
+      "nick": "B1ad3",
+      "country": "Ukraine"
+    },
+    {
+      "id": "b1t",
+      "nick": "b1t",
+      "country": "Ukraine"
+    },
+    {
+      "id": "b4rtiN",
+      "nick": "b4rtiN",
+      "country": "Brazil"
+    },
+    {
+      "id": "Bååten",
+      "nick": "Bååten",
+      "country": "Sweden"
+    },
+    {
+      "id": "balblna",
+      "nick": "balblna",
+      "country": "Russia"
+    },
+    {
+      "id": "BARBARR",
+      "nick": "BARBARR",
+      "country": "Sweden"
+    },
+    {
+      "id": "Bart4k",
+      "nick": "Bart4k",
+      "country": "Mongolia"
+    },
+    {
+      "id": "Basso",
+      "nick": "Basso",
+      "country": "Denmark"
+    },
+    {
+      "id": "beastik",
+      "nick": "beastik",
+      "country": "Czech Republic"
+    },
+    {
+      "id": "bedonka",
+      "nick": "bedonka",
+      "country": "Australia"
+    },
+    {
+      "id": "ben1337",
+      "nick": "ben1337",
+      "country": "United States"
+    },
+    {
+      "id": "BENDJI",
+      "nick": "BENDJI",
+      "country": "Sweden"
+    },
+    {
+      "id": "Benkai",
+      "nick": "Benkai",
+      "country": "Singapore"
+    },
+    {
+      "id": "berg",
+      "nick": "berg",
+      "country": "Sweden"
+    },
+    {
+      "id": "BERRY",
+      "nick": "BERRY",
+      "country": "Denmark"
+    },
+    {
+      "id": "bew",
+      "nick": "bew",
+      "country": "United States"
+    },
+    {
+      "id": "biguzera",
+      "nick": "biguzera",
+      "country": "Brazil"
+    },
+    {
+      "id": "birdfromsky",
+      "nick": "birdfromsky",
+      "country": "Denmark"
+    },
+    {
+      "id": "BIT",
+      "nick": "BIT",
+      "country": "Brazil"
+    },
+    {
+      "id": "BL1TZ",
+      "nick": "BL1TZ",
+      "country": "Australia"
+    },
+    {
+      "id": "blackpoisoN",
+      "nick": "blackpoisoN",
+      "country": "South Africa"
+    },
+    {
+      "id": "blameF",
+      "nick": "blameF",
+      "country": "Denmark"
+    },
+    {
+      "id": "bLitz",
+      "nick": "bLitz",
+      "country": "Mongolia"
+    },
+    {
+      "id": "blocker",
+      "nick": "blocker",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "BnTeT",
+      "nick": "BnTeT",
+      "country": "Indonesia"
+    },
+    {
+      "id": "bodito",
+      "nick": "bodito",
+      "country": "Hungary"
+    },
+    {
+      "id": "bodyy",
+      "nick": "bodyy",
+      "country": "France"
+    },
+    {
+      "id": "boltz",
+      "nick": "boltz",
+      "country": "Brazil"
+    },
+    {
+      "id": "BONA",
+      "nick": "BONA",
+      "country": "Finland"
+    },
+    {
+      "id": "bondik",
+      "nick": "bondik",
+      "country": "Ukraine"
+    },
+    {
+      "id": "Boombl4",
+      "nick": "Boombl4",
+      "country": "Russia"
+    },
+    {
+      "id": "BOROS",
+      "nick": "BOROS",
+      "country": "Jordan"
+    },
+    {
+      "id": "bottle",
+      "nick": "bottle",
+      "country": "China"
+    },
+    {
+      "id": "boX",
+      "nick": "boX",
+      "country": "Belarus"
+    },
+    {
+      "id": "bq",
+      "nick": "bq",
+      "country": "Sweden"
+    },
+    {
+      "id": "BRACE",
+      "nick": "BRACE",
+      "country": "Australia"
+    },
+    {
+      "id": "Brehze",
+      "nick": "Brehze",
+      "country": "United States"
+    },
+    {
+      "id": "broky",
+      "nick": "broky",
+      "country": "Latvia"
+    },
+    {
+      "id": "Brollan",
+      "nick": "Brollan",
+      "country": "Sweden"
+    },
+    {
+      "id": "BTN",
+      "nick": "BTN",
+      "country": "Romania"
+    },
+    {
+      "id": "bubble",
+      "nick": "bubble",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "Bubzkji",
+      "nick": "Bubzkji",
+      "country": "Denmark"
+    },
+    {
+      "id": "buda",
+      "nick": "buda",
+      "country": "Argentina"
+    },
+    {
+      "id": "BURNRUOk",
+      "nick": "BURNRUOk",
+      "country": "Australia"
+    },
+    {
+      "id": "buster",
+      "nick": "buster",
+      "country": "Kazakhstan"
+    },
+    {
+      "id": "Bwills",
+      "nick": "Bwills",
+      "country": "United States"
+    },
+    {
+      "id": "byali",
+      "nick": "byali",
+      "country": "Poland"
+    },
+    {
+      "id": "Bymas",
+      "nick": "Bymas",
+      "country": "Lithuania"
+    },
+    {
+      "id": "Cabbi",
+      "nick": "Cabbi",
+      "country": "Denmark"
+    },
+    {
+      "id": "cadiaN",
+      "nick": "cadiaN",
+      "country": "Denmark"
+    },
+    {
+      "id": "caike",
+      "nick": "caike",
+      "country": "Brazil"
+    },
+    {
+      "id": "cajunb",
+      "nick": "cajunb",
+      "country": "Denmark"
+    },
+    {
+      "id": "Calyx",
+      "nick": "Calyx",
+      "country": "Turkey"
+    },
+    {
+      "id": "cam",
+      "nick": "cam",
+      "country": "United States"
+    },
+    {
+      "id": "captainMo",
+      "nick": "captainMo",
+      "country": "China"
+    },
+    {
+      "id": "cbbk",
+      "nick": "cbbk",
+      "country": "Thailand"
+    },
+    {
+      "id": "ceh9",
+      "nick": "ceh9",
+      "country": "Ukraine"
+    },
+    {
+      "id": "cent",
+      "nick": "cent",
+      "country": "South Africa"
+    },
+    {
+      "id": "centeks",
+      "nick": "centeks",
+      "country": "Norway"
+    },
+    {
+      "id": "CeRq",
+      "nick": "CeRq",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "chelleos",
+      "nick": "chelleos",
+      "country": "New Zealand"
+    },
+    {
+      "id": "chelo",
+      "nick": "chelo",
+      "country": "Brazil"
+    },
+    {
+      "id": "chop",
+      "nick": "chop",
+      "country": "United States"
+    },
+    {
+      "id": "chopper",
+      "nick": "chopper",
+      "country": "Russia"
+    },
+    {
+      "id": "chrisJ",
+      "nick": "chrisJ",
+      "country": "Netherlands"
+    },
+    {
+      "id": "COLDYY1",
+      "nick": "COLDYY1",
+      "country": "Ukraine"
+    },
+    {
+      "id": "coldzera",
+      "nick": "coldzera",
+      "country": "Brazil"
+    },
+    {
+      "id": "COLON",
+      "nick": "COLON",
+      "country": "Denmark"
+    },
+    {
+      "id": "CONNOR93",
+      "nick": "CONNOR93",
+      "country": "Canada"
+    },
+    {
+      "id": "Console",
+      "nick": "Console",
+      "country": "Denmark"
+    },
+    {
+      "id": "Cooper",
+      "nick": "Cooper",
+      "country": "United States"
+    },
+    {
+      "id": "crisby",
+      "nick": "crisby",
+      "country": "Germany"
+    },
+    {
+      "id": "cromen",
+      "nick": "cromen",
+      "country": "Norway"
+    },
+    {
+      "id": "CRUC1AL",
+      "nick": "CRUC1AL",
+      "country": "Netherlands"
+    },
+    {
+      "id": "crush",
+      "nick": "crush",
+      "country": "Ukraine"
+    },
+    {
+      "id": "cxzi",
+      "nick": "cxzi",
+      "country": "United States"
+    },
+    {
+      "id": "CyberFocus",
+      "nick": "CyberFocus",
+      "country": "Belarus"
+    },
+    {
+      "id": "cynic",
+      "nick": "cynic",
+      "country": "United States"
+    },
+    {
+      "id": "cype",
+      "nick": "cype",
+      "country": null
+    },
+    {
+      "id": "CYPHER",
+      "nick": "CYPHER",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "Daffu",
+      "nick": "Daffu",
+      "country": "Denmark"
+    },
+    {
+      "id": "DANK1NG",
+      "nick": "DANK1NG",
+      "country": "China"
+    },
+    {
+      "id": "DannyG",
+      "nick": "DannyG",
+      "country": "Australia"
+    },
+    {
+      "id": "DANZ",
+      "nick": "DANZ",
+      "country": "Australia"
+    },
+    {
+      "id": "dapr",
+      "nick": "dapr",
+      "country": "United States"
+    },
+    {
+      "id": "daps",
+      "nick": "daps",
+      "country": "Canada"
+    },
+    {
+      "id": "darko",
+      "nick": "darko",
+      "country": "Poland"
+    },
+    {
+      "id": "Dav",
+      "nick": "Dav",
+      "country": "Serbia"
+    },
+    {
+      "id": "dav1deuS",
+      "nick": "dav1deuS",
+      "country": "Chile"
+    },
+    {
+      "id": "dav1g",
+      "nick": "dav1g",
+      "country": "Spain"
+    },
+    {
+      "id": "DavCost",
+      "nick": "DavCost",
+      "country": "Russia"
+    },
+    {
+      "id": "DAVEY",
+      "nick": "DAVEY",
+      "country": "Canada"
+    },
+    {
+      "id": "Davidp",
+      "nick": "Davidp",
+      "country": "Belgium"
+    },
+    {
+      "id": "DaZeD",
+      "nick": "DaZeD",
+      "country": null
+    },
+    {
+      "id": "dazzLe",
+      "nick": "dazzLe",
+      "country": "United States"
+    },
+    {
+      "id": "DD",
+      "nick": "DD",
+      "country": "China"
+    },
+    {
+      "id": "DeadFox",
+      "nick": "DeadFox",
+      "country": "Hungary"
+    },
+    {
+      "id": "DeathZz",
+      "nick": "DeathZz",
+      "country": "Spain"
+    },
+    {
+      "id": "dEE",
+      "nick": "dEE",
+      "country": "Serbia"
+    },
+    {
+      "id": "def",
+      "nick": "def",
+      "country": "Ukraine"
+    },
+    {
+      "id": "degster",
+      "nick": "degster",
+      "country": "Russia"
+    },
+    {
+      "id": "deko",
+      "nick": "deko",
+      "country": "Russia"
+    },
+    {
+      "id": "delboNi",
+      "nick": "delboNi",
+      "country": "Brazil"
+    },
+    {
+      "id": "Delpan",
+      "nick": "Delpan",
+      "country": "Sweden"
+    },
+    {
+      "id": "DemQQ",
+      "nick": "DemQQ",
+      "country": "Ukraine"
+    },
+    {
+      "id": "denis",
+      "nick": "denis",
+      "country": "Germany"
+    },
+    {
+      "id": "dennis",
+      "nick": "dennis",
+      "country": "Sweden"
+    },
+    {
+      "id": "dennyslaw",
+      "nick": "dennyslaw",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "dephh",
+      "nick": "dephh",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "dERZKIY",
+      "nick": "dERZKIY",
+      "country": "Belarus"
+    },
+    {
+      "id": "desi",
+      "nick": "desi",
+      "country": "United States"
+    },
+    {
+      "id": "DESPE",
+      "nick": "DESPE",
+      "country": "Turkey"
+    },
+    {
+      "id": "DeStiNy",
+      "nick": "DeStiNy",
+      "country": "Brazil"
+    },
+    {
+      "id": "DeStRoYeR",
+      "nick": "DeStRoYeR",
+      "country": "China"
+    },
+    {
+      "id": "Detrony",
+      "nick": "Detrony",
+      "country": "South Africa"
+    },
+    {
+      "id": "DEV7L",
+      "nick": "DEV7L",
+      "country": "Czech Republic"
+    },
+    {
+      "id": "deviaNt",
+      "nick": "deviaNt",
+      "country": "South Africa"
+    },
+    {
+      "id": "device",
+      "nick": "device",
+      "country": "Denmark"
+    },
+    {
+      "id": "DEVIL",
+      "nick": "DEVIL",
+      "country": "France"
+    },
+    {
+      "id": "Devilwalk",
+      "nick": "Devilwalk",
+      "country": "Sweden"
+    },
+    {
+      "id": "devoduvek",
+      "nick": "devoduvek",
+      "country": "France"
+    },
+    {
+      "id": "dexter",
+      "nick": "dexter",
+      "country": "Australia"
+    },
+    {
+      "id": "dezon",
+      "nick": "dezon",
+      "country": "Sweden"
+    },
+    {
+      "id": "dgt",
+      "nick": "dgt",
+      "country": "Uruguay"
+    },
+    {
+      "id": "DickStacy",
+      "nick": "DickStacy",
+      "country": "Australia"
+    },
+    {
+      "id": "Dima",
+      "nick": "Dima",
+      "country": "Russia"
+    },
+    {
+      "id": "Dimaoneshot",
+      "nick": "Dimaoneshot",
+      "country": "Russia"
+    },
+    {
+      "id": "dimasick",
+      "nick": "dimasick",
+      "country": "Kazakhstan"
+    },
+    {
+      "id": "DiMKE",
+      "nick": "DiMKE",
+      "country": "Serbia"
+    },
+    {
+      "id": "disco doplan",
+      "nick": "disco doplan",
+      "country": "Sweden"
+    },
+    {
+      "id": "disturbed",
+      "nick": "disturbed",
+      "country": "Finland"
+    },
+    {
+      "id": "djay",
+      "nick": "djay",
+      "country": "Canada"
+    },
+    {
+      "id": "djL",
+      "nick": "djL",
+      "country": "Sweden"
+    },
+    {
+      "id": "Djoko",
+      "nick": "Djoko",
+      "country": "France"
+    },
+    {
+      "id": "DJOXiC",
+      "nick": "DJOXiC",
+      "country": "Serbia"
+    },
+    {
+      "id": "dobu",
+      "nick": "dobu",
+      "country": "Mongolia"
+    },
+    {
+      "id": "Dosia",
+      "nick": "Dosia",
+      "country": "Russia"
+    },
+    {
+      "id": "doto",
+      "nick": "doto",
+      "country": "Finland"
+    },
+    {
+      "id": "dragonfly",
+      "nick": "dragonfly",
+      "country": "Denmark"
+    },
+    {
+      "id": "draken",
+      "nick": "draken",
+      "country": "Sweden"
+    },
+    {
+      "id": "Drea3er",
+      "nick": "Drea3er",
+      "country": "China"
+    },
+    {
+      "id": "dream3r",
+      "nick": "dream3r",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "Drone",
+      "nick": "Drone",
+      "country": "United States"
+    },
+    {
+      "id": "drop",
+      "nick": "drop",
+      "country": "Brazil"
+    },
+    {
+      "id": "dukefissura",
+      "nick": "dukefissura",
+      "country": "Kazakhstan"
+    },
+    {
+      "id": "dumau",
+      "nick": "dumau",
+      "country": "Brazil"
+    },
+    {
+      "id": "dumz",
+      "nick": "dumz",
+      "country": "Sweden"
+    },
+    {
+      "id": "Duplicate",
+      "nick": "Duplicate",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "dupreeh",
+      "nick": "dupreeh",
+      "country": "Denmark"
+    },
+    {
+      "id": "dycha",
+      "nick": "dycha",
+      "country": "Poland"
+    },
+    {
+      "id": "dzt",
+      "nick": "dzt",
+      "country": "Brazil"
+    },
+    {
+      "id": "EasTor",
+      "nick": "EasTor",
+      "country": "Spain"
+    },
+    {
+      "id": "ecfN",
+      "nick": "ecfN",
+      "country": "Germany"
+    },
+    {
+      "id": "Edward",
+      "nick": "Edward",
+      "country": "Ukraine"
+    },
+    {
+      "id": "ekul",
+      "nick": "ekul",
+      "country": "Australia"
+    },
+    {
+      "id": "El1an",
+      "nick": "El1an",
+      "country": "Russia"
+    },
+    {
+      "id": "electroNic",
+      "nick": "electroNic",
+      "country": "Russia"
+    },
+    {
+      "id": "EliGE",
+      "nick": "EliGE",
+      "country": "United States"
+    },
+    {
+      "id": "ELUSIVE",
+      "nick": "ELUSIVE",
+      "country": "South Africa"
+    },
+    {
+      "id": "emagine",
+      "nick": "emagine",
+      "country": "Australia"
+    },
+    {
+      "id": "emi",
+      "nick": "emi",
+      "country": "Serbia"
+    },
+    {
+      "id": "eraa",
+      "nick": "eraa",
+      "country": "Sweden"
+    },
+    {
+      "id": "erkaSt",
+      "nick": "erkaSt",
+      "country": "Mongolia"
+    },
+    {
+      "id": "es3tag",
+      "nick": "es3tag",
+      "country": "Denmark"
+    },
+    {
+      "id": "EspiranTo",
+      "nick": "EspiranTo",
+      "country": "Lithuania"
+    },
+    {
+      "id": "Ethan",
+      "nick": "Ethan",
+      "country": "United States"
+    },
+    {
+      "id": "Ex6TenZ",
+      "nick": "Ex6TenZ",
+      "country": "Belgium"
+    },
+    {
+      "id": "exit",
+      "nick": "exit",
+      "country": "Brazil"
+    },
+    {
+      "id": "expro",
+      "nick": "expro",
+      "country": "China"
+    },
+    {
+      "id": "EXR",
+      "nick": "EXR",
+      "country": null
+    },
+    {
+      "id": "EXUS",
+      "nick": "EXUS",
+      "country": "Poland"
+    },
+    {
+      "id": "f0rest",
+      "nick": "f0rest",
+      "country": "Sweden"
+    },
+    {
+      "id": "F1KU",
+      "nick": "F1KU",
+      "country": "Poland"
+    },
+    {
+      "id": "facecrack",
+      "nick": "facecrack",
+      "country": "Russia"
+    },
+    {
+      "id": "Fadey",
+      "nick": "Fadey",
+      "country": "South Africa"
+    },
+    {
+      "id": "FalleN",
+      "nick": "FalleN",
+      "country": "Brazil"
+    },
+    {
+      "id": "fame",
+      "nick": "fame",
+      "country": "Russia"
+    },
+    {
+      "id": "FANAT ROCKA",
+      "nick": "FANAT ROCKA",
+      "country": "Russia"
+    },
+    {
+      "id": "FaNg",
+      "nick": "FaNg",
+      "country": "Canada"
+    },
+    {
+      "id": "Farlig",
+      "nick": "Farlig",
+      "country": "Denmark"
+    },
+    {
+      "id": "FASHR",
+      "nick": "FASHR",
+      "country": "Netherlands"
+    },
+    {
+      "id": "faveN",
+      "nick": "faveN",
+      "country": "Germany"
+    },
+    {
+      "id": "fejtZ",
+      "nick": "fejtZ",
+      "country": "Estonia"
+    },
+    {
+      "id": "fel1x",
+      "nick": "fel1x",
+      "country": "Germany"
+    },
+    {
+      "id": "felps",
+      "nick": "felps",
+      "country": "Brazil"
+    },
+    {
+      "id": "fenvicious",
+      "nick": "fenvicious",
+      "country": "Russia"
+    },
+    {
+      "id": "fer",
+      "nick": "fer",
+      "country": "Brazil"
+    },
+    {
+      "id": "FeTiSh",
+      "nick": "FeTiSh",
+      "country": null
+    },
+    {
+      "id": "Fifflaren",
+      "nick": "Fifflaren",
+      "country": "Sweden"
+    },
+    {
+      "id": "FinigaN",
+      "nick": "FinigaN",
+      "country": "Russia"
+    },
+    {
+      "id": "fitch",
+      "nick": "fitch",
+      "country": "Kazakhstan"
+    },
+    {
+      "id": "fl0m",
+      "nick": "fl0m",
+      "country": "United States"
+    },
+    {
+      "id": "FL1T",
+      "nick": "FL1T",
+      "country": "Russia"
+    },
+    {
+      "id": "flameZ",
+      "nick": "flameZ",
+      "country": "Israel"
+    },
+    {
+      "id": "flamie",
+      "nick": "flamie",
+      "country": "Russia"
+    },
+    {
+      "id": "Flarich",
+      "nick": "Flarich",
+      "country": "Latvia"
+    },
+    {
+      "id": "flashie",
+      "nick": "flashie",
+      "country": "Hungary"
+    },
+    {
+      "id": "fleav",
+      "nick": "fleav",
+      "country": "Hungary"
+    },
+    {
+      "id": "flickz",
+      "nick": "flickz",
+      "country": "Australia"
+    },
+    {
+      "id": "floppy",
+      "nick": "floppy",
+      "country": "United States"
+    },
+    {
+      "id": "flowsicK",
+      "nick": "flowsicK",
+      "country": "United States"
+    },
+    {
+      "id": "flusha",
+      "nick": "flusha",
+      "country": "Sweden"
+    },
+    {
+      "id": "flying",
+      "nick": "flying",
+      "country": "China"
+    },
+    {
+      "id": "FNS",
+      "nick": "FNS",
+      "country": "Canada"
+    },
+    {
+      "id": "fnx",
+      "nick": "fnx",
+      "country": "Brazil"
+    },
+    {
+      "id": "food",
+      "nick": "food",
+      "country": "United States"
+    },
+    {
+      "id": "Forester",
+      "nick": "Forester",
+      "country": "Russia"
+    },
+    {
+      "id": "forget",
+      "nick": "forget",
+      "country": "China"
+    },
+    {
+      "id": "fox",
+      "nick": "fox",
+      "country": "Portugal"
+    },
+    {
+      "id": "fr0slev",
+      "nick": "fr0slev",
+      "country": "Denmark"
+    },
+    {
+      "id": "freakazoid",
+      "nick": "freakazoid",
+      "country": "United States"
+    },
+    {
+      "id": "freddieb",
+      "nick": "freddieb",
+      "country": "Sweden"
+    },
+    {
+      "id": "FREDDyFROG",
+      "nick": "FREDDyFROG",
+      "country": "Sweden"
+    },
+    {
+      "id": "Freeman",
+      "nick": "Freeman",
+      "country": "Hong Kong"
+    },
+    {
+      "id": "friberg",
+      "nick": "friberg",
+      "country": "Sweden"
+    },
+    {
+      "id": "Friis",
+      "nick": "Friis",
+      "country": "Denmark"
+    },
+    {
+      "id": "FrostMisty",
+      "nick": "FrostMisty",
+      "country": "Indonesia"
+    },
+    {
+      "id": "frozen",
+      "nick": "frozen",
+      "country": "Slovakia"
+    },
+    {
+      "id": "FugLy",
+      "nick": "FugLy",
+      "country": "United States"
+    },
+    {
+      "id": "Furlan",
+      "nick": "Furlan",
+      "country": "Poland"
+    },
+    {
+      "id": "fxy0",
+      "nick": "fxy0",
+      "country": "France"
+    },
+    {
+      "id": "gabesson",
+      "nick": "gabesson",
+      "country": "Hungary"
+    },
+    {
+      "id": "gade",
+      "nick": "gade",
+      "country": "Denmark"
+    },
+    {
+      "id": "gas",
+      "nick": "gas",
+      "country": "China"
+    },
+    {
+      "id": "Geniuss",
+      "nick": "Geniuss",
+      "country": "Thailand"
+    },
+    {
+      "id": "GeT_RiGhT",
+      "nick": "GeT_RiGhT",
+      "country": "Sweden"
+    },
+    {
+      "id": "gla1ve",
+      "nick": "gla1ve",
+      "country": "Denmark"
+    },
+    {
+      "id": "glace",
+      "nick": "glace",
+      "country": "Denmark"
+    },
+    {
+      "id": "glow",
+      "nick": "glow",
+      "country": "Korea"
+    },
+    {
+      "id": "glowiing",
+      "nick": "glowiing",
+      "country": "Russia"
+    },
+    {
+      "id": "gMd",
+      "nick": "gMd",
+      "country": "Canada"
+    },
+    {
+      "id": "GMX",
+      "nick": "GMX",
+      "country": null
+    },
+    {
+      "id": "gob b",
+      "nick": "gob b",
+      "country": "Germany"
+    },
+    {
+      "id": "Golden",
+      "nick": "Golden",
+      "country": "Sweden"
+    },
+    {
+      "id": "Goofy",
+      "nick": "Goofy",
+      "country": "Poland"
+    },
+    {
+      "id": "Gratisfaction",
+      "nick": "Gratisfaction",
+      "country": "New Zealand"
+    },
+    {
+      "id": "Grim",
+      "nick": "Grim",
+      "country": "United States"
+    },
+    {
+      "id": "GruBy",
+      "nick": "GruBy",
+      "country": "Poland"
+    },
+    {
+      "id": "Grusarn",
+      "nick": "Grusarn",
+      "country": "Norway"
+    },
+    {
+      "id": "grux",
+      "nick": "grux",
+      "country": "Sweden"
+    },
+    {
+      "id": "GuardiaN",
+      "nick": "GuardiaN",
+      "country": "Slovakia"
+    },
+    {
+      "id": "gxx-",
+      "nick": "gxx-",
+      "country": "Kosovo"
+    },
+    {
+      "id": "h4rn",
+      "nick": "h4rn",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "H4RR3",
+      "nick": "H4RR3",
+      "country": "Norway"
+    },
+    {
+      "id": "hades",
+      "nick": "hades",
+      "country": "Poland"
+    },
+    {
+      "id": "hAdji",
+      "nick": "hAdji",
+      "country": "France"
+    },
+    {
+      "id": "hallzerk",
+      "nick": "hallzerk",
+      "country": "Norway"
+    },
+    {
+      "id": "hampus",
+      "nick": "hampus",
+      "country": "Sweden"
+    },
+    {
+      "id": "Happy",
+      "nick": "Happy",
+      "country": "France"
+    },
+    {
+      "id": "hardstyle",
+      "nick": "hardstyle",
+      "country": "Turkey"
+    },
+    {
+      "id": "hardzao",
+      "nick": "hardzao",
+      "country": "Brazil"
+    },
+    {
+      "id": "HaRts",
+      "nick": "HaRts",
+      "country": null
+    },
+    {
+      "id": "hasteka",
+      "nick": "hasteka",
+      "country": "Mongolia"
+    },
+    {
+      "id": "Hatz",
+      "nick": "Hatz",
+      "country": "Australia"
+    },
+    {
+      "id": "Havoc",
+      "nick": "Havoc",
+      "country": null
+    },
+    {
+      "id": "hazed",
+      "nick": "hazed",
+      "country": "United States"
+    },
+    {
+      "id": "HaZR",
+      "nick": "HaZR",
+      "country": "Australia"
+    },
+    {
+      "id": "headtr1ck",
+      "nick": "headtr1ck",
+      "country": "Ukraine"
+    },
+    {
+      "id": "HEN1",
+      "nick": "HEN1",
+      "country": "Brazil"
+    },
+    {
+      "id": "HexT",
+      "nick": "HexT",
+      "country": "Canada"
+    },
+    {
+      "id": "Hiko",
+      "nick": "Hiko",
+      "country": "United States"
+    },
+    {
+      "id": "history",
+      "nick": "history",
+      "country": "Brazil"
+    },
+    {
+      "id": "hitMouse",
+      "nick": "hitMouse",
+      "country": "Belarus"
+    },
+    {
+      "id": "HObbit",
+      "nick": "HObbit",
+      "country": "Kazakhstan"
+    },
+    {
+      "id": "HOLMES",
+      "nick": "HOLMES",
+      "country": "Serbia"
+    },
+    {
+      "id": "hooch",
+      "nick": "hooch",
+      "country": "Russia"
+    },
+    {
+      "id": "hoody",
+      "nick": "hoody",
+      "country": "Finland"
+    },
+    {
+      "id": "HooXi",
+      "nick": "HooXi",
+      "country": "Denmark"
+    },
+    {
+      "id": "HS",
+      "nick": "HS",
+      "country": "Estonia"
+    },
+    {
+      "id": "HSK",
+      "nick": "HSK",
+      "country": "Korea"
+    },
+    {
+      "id": "HUGHMUNGUS",
+      "nick": "HUGHMUNGUS",
+      "country": "Australia"
+    },
+    {
+      "id": "HUNDEN",
+      "nick": "HUNDEN",
+      "country": "Denmark"
+    },
+    {
+      "id": "huNter-",
+      "nick": "huNter-",
+      "country": "Bosnia and Herzegovina"
+    },
+    {
+      "id": "hutji",
+      "nick": "hutji",
+      "country": "Russia"
+    },
+    {
+      "id": "Hyper",
+      "nick": "Hyper",
+      "country": "Poland"
+    },
+    {
+      "id": "HZ",
+      "nick": "HZ",
+      "country": "China"
+    },
+    {
+      "id": "ice",
+      "nick": "ice",
+      "country": "Kazakhstan"
+    },
+    {
+      "id": "iDISBALANCE",
+      "nick": "iDISBALANCE",
+      "country": "Russia"
+    },
+    {
+      "id": "iDk",
+      "nick": "iDk",
+      "country": "Brazil"
+    },
+    {
+      "id": "iM",
+      "nick": "iM",
+      "country": "Romania"
+    },
+    {
+      "id": "imoRR",
+      "nick": "imoRR",
+      "country": "Turkey"
+    },
+    {
+      "id": "ImpressioN",
+      "nick": "ImpressioN",
+      "country": "Singapore"
+    },
+    {
+      "id": "Impulse",
+      "nick": "Impulse",
+      "country": "Serbia"
+    },
+    {
+      "id": "Infinite",
+      "nick": "Infinite",
+      "country": "United States"
+    },
+    {
+      "id": "InfrequeNt",
+      "nick": "InfrequeNt",
+      "country": "Australia"
+    },
+    {
+      "id": "innocent",
+      "nick": "innocent",
+      "country": "Poland"
+    },
+    {
+      "id": "INS",
+      "nick": "INS",
+      "country": "Australia"
+    },
+    {
+      "id": "interz",
+      "nick": "interz",
+      "country": "Russia"
+    },
+    {
+      "id": "Inzta",
+      "nick": "Inzta",
+      "country": "Denmark"
+    },
+    {
+      "id": "ioRek",
+      "nick": "ioRek",
+      "country": "France"
+    },
+    {
+      "id": "isak",
+      "nick": "isak",
+      "country": "Sweden"
+    },
+    {
+      "id": "ISSAA",
+      "nick": "ISSAA",
+      "country": "Jordan"
+    },
+    {
+      "id": "J1rah",
+      "nick": "J1rah",
+      "country": "Australia"
+    },
+    {
+      "id": "jabbi",
+      "nick": "jabbi",
+      "country": "Denmark"
+    },
+    {
+      "id": "JACKZ",
+      "nick": "JACKZ",
+      "country": "France"
+    },
+    {
+      "id": "Jame",
+      "nick": "Jame",
+      "country": "Russia"
+    },
+    {
+      "id": "James",
+      "nick": "James",
+      "country": "Australia"
+    },
+    {
+      "id": "Jamppi",
+      "nick": "Jamppi",
+      "country": "Finland"
+    },
+    {
+      "id": "jasonR",
+      "nick": "jasonR",
+      "country": "Canada"
+    },
+    {
+      "id": "jaxi",
+      "nick": "jaxi",
+      "country": "Romania"
+    },
+    {
+      "id": "jayzaR",
+      "nick": "jayzaR",
+      "country": "Sweden"
+    },
+    {
+      "id": "JazzPimp",
+      "nick": "JazzPimp",
+      "country": "United States"
+    },
+    {
+      "id": "JD",
+      "nick": "JD",
+      "country": "Australia"
+    },
+    {
+      "id": "JDC",
+      "nick": "JDC",
+      "country": "Germany"
+    },
+    {
+      "id": "jdm64",
+      "nick": "jdm64",
+      "country": "United States"
+    },
+    {
+      "id": "jedqr",
+      "nick": "jedqr",
+      "country": "Poland"
+    },
+    {
+      "id": "Jerry",
+      "nick": "Jerry",
+      "country": "Russia"
+    },
+    {
+      "id": "JIaYm",
+      "nick": "JIaYm",
+      "country": "Russia"
+    },
+    {
+      "id": "JiNKZ",
+      "nick": "JiNKZ",
+      "country": "France"
+    },
+    {
+      "id": "Jinxx",
+      "nick": "Jinxx",
+      "country": "Australia"
+    },
+    {
+      "id": "jkaem",
+      "nick": "jkaem",
+      "country": "Norway"
+    },
+    {
+      "id": "jks",
+      "nick": "jks",
+      "country": "Australia"
+    },
+    {
+      "id": "jL",
+      "nick": "jL",
+      "country": "Lithuania"
+    },
+    {
+      "id": "jmqa",
+      "nick": "jmqa",
+      "country": "Russia"
+    },
+    {
+      "id": "jnt",
+      "nick": "jnt",
+      "country": "Brazil"
+    },
+    {
+      "id": "Jonji",
+      "nick": "Jonji",
+      "country": "Canada"
+    },
+    {
+      "id": "JonY BoY",
+      "nick": "JonY BoY",
+      "country": "Argentina"
+    },
+    {
+      "id": "JOTA",
+      "nick": "JOTA",
+      "country": "Brazil"
+    },
+    {
+      "id": "jR",
+      "nick": "jR",
+      "country": "Ukraine"
+    },
+    {
+      "id": "JT",
+      "nick": "JT",
+      "country": "South Africa"
+    },
+    {
+      "id": "juanflatroo",
+      "nick": "juanflatroo",
+      "country": "Kosovo"
+    },
+    {
+      "id": "JUGi",
+      "nick": "JUGi",
+      "country": "Denmark"
+    },
+    {
+      "id": "juho",
+      "nick": "juho",
+      "country": "Finland"
+    },
+    {
+      "id": "junior",
+      "nick": "junior",
+      "country": "United States"
+    },
+    {
+      "id": "JUST",
+      "nick": "JUST",
+      "country": "Portugal"
+    },
+    {
+      "id": "JW",
+      "nick": "JW",
+      "country": "Sweden"
+    },
+    {
+      "id": "Jyo",
+      "nick": "Jyo",
+      "country": "Estonia"
+    },
+    {
+      "id": "k0nfig",
+      "nick": "k0nfig",
+      "country": "Denmark"
+    },
+    {
+      "id": "k1to",
+      "nick": "k1to",
+      "country": "Germany"
+    },
+    {
+      "id": "kabal",
+      "nick": "kabal",
+      "country": "Mongolia"
+    },
+    {
+      "id": "kaboose",
+      "nick": "kaboose",
+      "country": "United States"
+    },
+    {
+      "id": "kai",
+      "nick": "kai",
+      "country": "Brazil"
+    },
+    {
+      "id": "Kairi",
+      "nick": "Kairi",
+      "country": "Spain"
+    },
+    {
+      "id": "kalinka",
+      "nick": "kalinka",
+      "country": "Lithuania"
+    },
+    {
+      "id": "kaper",
+      "nick": "kaper",
+      "country": "Poland"
+    },
+    {
+      "id": "karrigan",
+      "nick": "karrigan",
+      "country": "Denmark"
+    },
+    {
+      "id": "Karsa",
+      "nick": "Karsa",
+      "country": "China"
+    },
+    {
+      "id": "kaze",
+      "nick": "kaze",
+      "country": "Malaysia"
+    },
+    {
+      "id": "Kaze",
+      "nick": "Kaze",
+      "country": "Malaysia"
+    },
+    {
+      "id": "keev",
+      "nick": "keev",
+      "country": "Germany"
+    },
+    {
+      "id": "KEi",
+      "nick": "KEi",
+      "country": "Poland"
+    },
+    {
+      "id": "kennyS",
+      "nick": "kennyS",
+      "country": "France"
+    },
+    {
+      "id": "KENSI",
+      "nick": "KENSI",
+      "country": "Russia"
+    },
+    {
+      "id": "kenzor",
+      "nick": "kenzor",
+      "country": "Ukraine"
+    },
+    {
+      "id": "Keoz",
+      "nick": "Keoz",
+      "country": "Belgium"
+    },
+    {
+      "id": "keshandr",
+      "nick": "keshandr",
+      "country": "Russia"
+    },
+    {
+      "id": "KHRN",
+      "nick": "KHRN",
+      "country": "Finland"
+    },
+    {
+      "id": "KHTEX",
+      "nick": "KHTEX",
+      "country": "Brazil"
+    },
+    {
+      "id": "KILLDREAM",
+      "nick": "KILLDREAM",
+      "country": "Portugal"
+    },
+    {
+      "id": "kinqie",
+      "nick": "kinqie",
+      "country": "Russia"
+    },
+    {
+      "id": "kioShiMa",
+      "nick": "kioShiMa",
+      "country": "France"
+    },
+    {
+      "id": "kiR",
+      "nick": "kiR",
+      "country": "Denmark"
+    },
+    {
+      "id": "Kjaerbye",
+      "nick": "Kjaerbye",
+      "country": "Denmark"
+    },
+    {
+      "id": "kNgV-",
+      "nick": "kNgV-",
+      "country": "Brazil"
+    },
+    {
+      "id": "Kntz",
+      "nick": "Kntz",
+      "country": "Thailand"
+    },
+    {
+      "id": "kolor",
+      "nick": "kolor",
+      "country": "Hungary"
+    },
+    {
+      "id": "koosta",
+      "nick": "koosta",
+      "country": "United States"
+    },
+    {
+      "id": "kory",
+      "nick": "kory",
+      "country": "Hungary"
+    },
+    {
+      "id": "KQLY",
+      "nick": "KQLY",
+      "country": null
+    },
+    {
+      "id": "Krad",
+      "nick": "Krad",
+      "country": "Russia"
+    },
+    {
+      "id": "kRaSnaL",
+      "nick": "kRaSnaL",
+      "country": "Poland"
+    },
+    {
+      "id": "kreaz",
+      "nick": "kreaz",
+      "country": "Sweden"
+    },
+    {
+      "id": "kressy",
+      "nick": "kressy",
+      "country": "Germany"
+    },
+    {
+      "id": "krii",
+      "nick": "krii",
+      "country": "Latvia"
+    },
+    {
+      "id": "Krimbo",
+      "nick": "Krimbo",
+      "country": "Germany"
+    },
+    {
+      "id": "KRiMZ",
+      "nick": "KRiMZ",
+      "country": null
+    },
+    {
+      "id": "KRIMZ",
+      "nick": "KRIMZ",
+      "country": "Sweden"
+    },
+    {
+      "id": "Kristou",
+      "nick": "Kristou",
+      "country": "Denmark"
+    },
+    {
+      "id": "KrizzeN",
+      "nick": "KrizzeN",
+      "country": "Kazakhstan"
+    },
+    {
+      "id": "kRYSTAL",
+      "nick": "kRYSTAL",
+      "country": "Germany"
+    },
+    {
+      "id": "KSCERATO",
+      "nick": "KSCERATO",
+      "country": "Brazil"
+    },
+    {
+      "id": "kucher",
+      "nick": "kucher",
+      "country": null
+    },
+    {
+      "id": "kUcheR",
+      "nick": "kUcheR",
+      "country": "Russia"
+    },
+    {
+      "id": "Kvik",
+      "nick": "Kvik",
+      "country": "Lithuania"
+    },
+    {
+      "id": "kwezz",
+      "nick": "kwezz",
+      "country": "Denmark"
+    },
+    {
+      "id": "Kylar",
+      "nick": "Kylar",
+      "country": "Poland"
+    },
+    {
+      "id": "Kyojin",
+      "nick": "Kyojin",
+      "country": "France"
+    },
+    {
+      "id": "kyxsan",
+      "nick": "kyxsan",
+      "country": "North Macedonia"
+    },
+    {
+      "id": "kzy",
+      "nick": "kzy",
+      "country": "Germany"
+    },
+    {
+      "id": "Lack1",
+      "nick": "Lack1",
+      "country": "Kazakhstan"
+    },
+    {
+      "id": "Lambert",
+      "nick": "Lambert",
+      "country": "France"
+    },
+    {
+      "id": "land1n",
+      "nick": "land1n",
+      "country": "Brazil"
+    },
+    {
+      "id": "larsen",
+      "nick": "larsen",
+      "country": "Denmark"
+    },
+    {
+      "id": "latto",
+      "nick": "latto",
+      "country": "Brazil"
+    },
+    {
+      "id": "lauNX",
+      "nick": "lauNX",
+      "country": "Romania"
+    },
+    {
+      "id": "Leaf",
+      "nick": "Leaf",
+      "country": "Thailand"
+    },
+    {
+      "id": "LEGIJA",
+      "nick": "LEGIJA",
+      "country": "Germany"
+    },
+    {
+      "id": "Lekr0",
+      "nick": "Lekr0",
+      "country": "Sweden"
+    },
+    {
+      "id": "leman",
+      "nick": "leman",
+      "country": "Poland"
+    },
+    {
+      "id": "leo_drk",
+      "nick": "leo_drk",
+      "country": "Brazil"
+    },
+    {
+      "id": "LETN1",
+      "nick": "LETN1",
+      "country": "Serbia"
+    },
+    {
+      "id": "LeX",
+      "nick": "LeX",
+      "country": "United States"
+    },
+    {
+      "id": "Liazz",
+      "nick": "Liazz",
+      "country": "Australia"
+    },
+    {
+      "id": "Liki",
+      "nick": "Liki",
+      "country": "Australia"
+    },
+    {
+      "id": "liTTle",
+      "nick": "liTTle",
+      "country": "Russia"
+    },
+    {
+      "id": "Llamas",
+      "nick": "Llamas",
+      "country": "Australia"
+    },
+    {
+      "id": "LNZ",
+      "nick": "LNZ",
+      "country": "Sweden"
+    },
+    {
+      "id": "LOGAN",
+      "nick": "LOGAN",
+      "country": "France"
+    },
+    {
+      "id": "lollipop21k",
+      "nick": "lollipop21k",
+      "country": "Belarus"
+    },
+    {
+      "id": "LOMME",
+      "nick": "LOMME",
+      "country": "Denmark"
+    },
+    {
+      "id": "LOVEYY",
+      "nick": "LOVEYY",
+      "country": "China"
+    },
+    {
+      "id": "loWel",
+      "nick": "loWel",
+      "country": "Spain"
+    },
+    {
+      "id": "Lucaozy",
+      "nick": "Lucaozy",
+      "country": "Brazil"
+    },
+    {
+      "id": "LUCAS1",
+      "nick": "LUCAS1",
+      "country": "Brazil"
+    },
+    {
+      "id": "Lucky",
+      "nick": "Lucky",
+      "country": "France"
+    },
+    {
+      "id": "Luken",
+      "nick": "Luken",
+      "country": "Argentina"
+    },
+    {
+      "id": "Lukki",
+      "nick": "Lukki",
+      "country": "Denmark"
+    },
+    {
+      "id": "lunAtic",
+      "nick": "lunAtic",
+      "country": "Poland"
+    },
+    {
+      "id": "Luz",
+      "nick": "Luz",
+      "country": "Poland"
+    },
+    {
+      "id": "m0NESY",
+      "nick": "m0NESY",
+      "country": "Russia"
+    },
+    {
+      "id": "Machinegun",
+      "nick": "Machinegun",
+      "country": "Mongolia"
+    },
+    {
+      "id": "Maden",
+      "nick": "Maden",
+      "country": "Montenegro"
+    },
+    {
+      "id": "maeVe",
+      "nick": "maeVe",
+      "country": "Denmark"
+    },
+    {
+      "id": "Magisk",
+      "nick": "Magisk",
+      "country": "Denmark"
+    },
+    {
+      "id": "magixx",
+      "nick": "magixx",
+      "country": "Russia"
+    },
+    {
+      "id": "Maikelele",
+      "nick": "Maikelele",
+      "country": "Sweden"
+    },
+    {
+      "id": "MAiNLiNE",
+      "nick": "MAiNLiNE",
+      "country": "United States"
+    },
+    {
+      "id": "MAIROLLS",
+      "nick": "MAIROLLS",
+      "country": "Thailand"
+    },
+    {
+      "id": "MAJ3R",
+      "nick": "MAJ3R",
+      "country": "Turkey"
+    },
+    {
+      "id": "Maka",
+      "nick": "Maka",
+      "country": "France"
+    },
+    {
+      "id": "malbsMd",
+      "nick": "malbsMd",
+      "country": "Guatemala"
+    },
+    {
+      "id": "maLeK",
+      "nick": "maLeK",
+      "country": "France"
+    },
+    {
+      "id": "malta",
+      "nick": "malta",
+      "country": "Australia"
+    },
+    {
+      "id": "Maluk3",
+      "nick": "Maluk3",
+      "country": "Brazil"
+    },
+    {
+      "id": "Maniac",
+      "nick": "Maniac",
+      "country": "Switzerland"
+    },
+    {
+      "id": "maNkz",
+      "nick": "maNkz",
+      "country": "Denmark"
+    },
+    {
+      "id": "mantuu",
+      "nick": "mantuu",
+      "country": "Poland"
+    },
+    {
+      "id": "mar",
+      "nick": "mar",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "Marcelious",
+      "nick": "Marcelious",
+      "country": "Norway"
+    },
+    {
+      "id": "Marek",
+      "nick": "Marek",
+      "country": "Taiwan"
+    },
+    {
+      "id": "MarKE",
+      "nick": "MarKE",
+      "country": "Mexico"
+    },
+    {
+      "id": "markeloff",
+      "nick": "markeloff",
+      "country": "Ukraine"
+    },
+    {
+      "id": "Markoś",
+      "nick": "Markoś",
+      "country": "Poland"
+    },
+    {
+      "id": "matty",
+      "nick": "matty",
+      "country": "Poland"
+    },
+    {
+      "id": "max",
+      "nick": "max",
+      "country": "Uruguay"
+    },
+    {
+      "id": "Mayker",
+      "nick": "Mayker",
+      "country": "Australia"
+    },
+    {
+      "id": "mds",
+      "nick": "mds",
+      "country": "Belarus"
+    },
+    {
+      "id": "mertz",
+      "nick": "mertz",
+      "country": "Denmark"
+    },
+    {
+      "id": "meyern",
+      "nick": "meyern",
+      "country": "Argentina"
+    },
+    {
+      "id": "mezii",
+      "nick": "mezii",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "mhL",
+      "nick": "mhL",
+      "country": "Poland"
+    },
+    {
+      "id": "MICHU",
+      "nick": "MICHU",
+      "country": "Poland"
+    },
+    {
+      "id": "MiGHTYMAX",
+      "nick": "MiGHTYMAX",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "MINISE",
+      "nick": "MINISE",
+      "country": "Poland"
+    },
+    {
+      "id": "mir",
+      "nick": "mir",
+      "country": "Russia"
+    },
+    {
+      "id": "mirbit",
+      "nick": "mirbit",
+      "country": "Germany"
+    },
+    {
+      "id": "misutaaa",
+      "nick": "misutaaa",
+      "country": "France"
+    },
+    {
+      "id": "mitch",
+      "nick": "mitch",
+      "country": "United States"
+    },
+    {
+      "id": "MithilF",
+      "nick": "MithilF",
+      "country": "India"
+    },
+    {
+      "id": "mixwell",
+      "nick": "mixwell",
+      "country": "Spain"
+    },
+    {
+      "id": "MODDII",
+      "nick": "MODDII",
+      "country": "Sweden"
+    },
+    {
+      "id": "MoeycQ",
+      "nick": "MoeycQ",
+      "country": "Australia"
+    },
+    {
+      "id": "mono",
+      "nick": "mono",
+      "country": "Poland"
+    },
+    {
+      "id": "MonttY",
+      "nick": "MonttY",
+      "country": "Slovakia"
+    },
+    {
+      "id": "moose",
+      "nick": "moose",
+      "country": "Canada"
+    },
+    {
+      "id": "mopoz",
+      "nick": "mopoz",
+      "country": "Spain"
+    },
+    {
+      "id": "morelz",
+      "nick": "morelz",
+      "country": "Poland"
+    },
+    {
+      "id": "motm",
+      "nick": "motm",
+      "country": "United States"
+    },
+    {
+      "id": "mou",
+      "nick": "mou",
+      "country": "Kazakhstan"
+    },
+    {
+      "id": "mouz",
+      "nick": "mouz",
+      "country": "Poland"
+    },
+    {
+      "id": "MSL",
+      "nick": "MSL",
+      "country": "Denmark"
+    },
+    {
+      "id": "MUTiRiS",
+      "nick": "MUTiRiS",
+      "country": "Portugal"
+    },
+    {
+      "id": "mynio",
+      "nick": "mynio",
+      "country": "Poland"
+    },
+    {
+      "id": "n0rb3r7",
+      "nick": "n0rb3r7",
+      "country": "Russia"
+    },
+    {
+      "id": "n0thing",
+      "nick": "n0thing",
+      "country": "United States"
+    },
+    {
+      "id": "NAF",
+      "nick": "NAF",
+      "country": "Canada"
+    },
+    {
+      "id": "nafany",
+      "nick": "nafany",
+      "country": "Russia"
+    },
+    {
+      "id": "nak",
+      "nick": "nak",
+      "country": "Brazil"
+    },
+    {
+      "id": "NaToSaphiX",
+      "nick": "NaToSaphiX",
+      "country": "Denmark"
+    },
+    {
+      "id": "natu",
+      "nick": "natu",
+      "country": "Finland"
+    },
+    {
+      "id": "nawrot",
+      "nick": "nawrot",
+      "country": "Poland"
+    },
+    {
+      "id": "nawwk",
+      "nick": "nawwk",
+      "country": "Sweden"
+    },
+    {
+      "id": "NBK-",
+      "nick": "NBK-",
+      "country": "France"
+    },
+    {
+      "id": "nbl",
+      "nick": "nbl",
+      "country": "Argentina"
+    },
+    {
+      "id": "ncl",
+      "nick": "ncl",
+      "country": "Mongolia"
+    },
+    {
+      "id": "neaLaN",
+      "nick": "neaLaN",
+      "country": "Kazakhstan"
+    },
+    {
+      "id": "NEEX",
+      "nick": "NEEX",
+      "country": "Poland"
+    },
+    {
+      "id": "NEKIZ",
+      "nick": "NEKIZ",
+      "country": "Brazil"
+    },
+    {
+      "id": "NENO",
+      "nick": "NENO",
+      "country": "North Macedonia"
+    },
+    {
+      "id": "NEO",
+      "nick": "NEO",
+      "country": "Poland"
+    },
+    {
+      "id": "NEOFRAG",
+      "nick": "NEOFRAG",
+      "country": "Czech Republic"
+    },
+    {
+      "id": "neptune",
+      "nick": "neptune",
+      "country": "United States"
+    },
+    {
+      "id": "NertZ",
+      "nick": "NertZ",
+      "country": "Israel"
+    },
+    {
+      "id": "netrick",
+      "nick": "netrick",
+      "country": "Denmark"
+    },
+    {
+      "id": "nex",
+      "nick": "nex",
+      "country": "Germany"
+    },
+    {
+      "id": "nexa",
+      "nick": "nexa",
+      "country": "Serbia"
+    },
+    {
+      "id": "ngiN",
+      "nick": "ngiN",
+      "country": "Turkey"
+    },
+    {
+      "id": "NickelBack",
+      "nick": "NickelBack",
+      "country": "Russia"
+    },
+    {
+      "id": "Nico",
+      "nick": "Nico",
+      "country": "Denmark"
+    },
+    {
+      "id": "nicoodoz",
+      "nick": "nicoodoz",
+      "country": "Denmark"
+    },
+    {
+      "id": "Nifty",
+      "nick": "Nifty",
+      "country": "United States"
+    },
+    {
+      "id": "niki1",
+      "nick": "niki1",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "NikkeZ",
+      "nick": "NikkeZ",
+      "country": "Australia"
+    },
+    {
+      "id": "niko",
+      "nick": "niko",
+      "country": "Denmark"
+    },
+    {
+      "id": "NiKo",
+      "nick": "NiKo",
+      "country": "Bosnia and Herzegovina"
+    },
+    {
+      "id": "NikoM",
+      "nick": "NikoM",
+      "country": "Argentina"
+    },
+    {
+      "id": "nin9",
+      "nick": "nin9",
+      "country": "Mongolia"
+    },
+    {
+      "id": "nitr0",
+      "nick": "nitr0",
+      "country": "United States"
+    },
+    {
+      "id": "NK4Y",
+      "nick": "NK4Y",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "nkl",
+      "nick": "nkl",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "Nodios",
+      "nick": "Nodios",
+      "country": "Denmark"
+    },
+    {
+      "id": "Noisia",
+      "nick": "Noisia",
+      "country": "Australia"
+    },
+    {
+      "id": "Noktse",
+      "nick": "Noktse",
+      "country": "Argentina"
+    },
+    {
+      "id": "Noobster",
+      "nick": "Noobster",
+      "country": "Australia"
+    },
+    {
+      "id": "Norwi",
+      "nick": "Norwi",
+      "country": "Russia"
+    },
+    {
+      "id": "nosraC",
+      "nick": "nosraC",
+      "country": "United States"
+    },
+    {
+      "id": "notaN",
+      "nick": "notaN",
+      "country": "Denmark"
+    },
+    {
+      "id": "npl",
+      "nick": "npl",
+      "country": "Ukraine"
+    },
+    {
+      "id": "nqz",
+      "nick": "nqz",
+      "country": "Brazil"
+    },
+    {
+      "id": "nukkye",
+      "nick": "nukkye",
+      "country": "Lithuania"
+    },
+    {
+      "id": "nython",
+      "nick": "nython",
+      "country": "Brazil"
+    },
+    {
+      "id": "obj",
+      "nick": "obj",
+      "country": "Portugal"
+    },
+    {
+      "id": "oBo",
+      "nick": "oBo",
+      "country": "United States"
+    },
+    {
+      "id": "OCEAN",
+      "nick": "OCEAN",
+      "country": "Canada"
+    },
+    {
+      "id": "Oderus",
+      "nick": "Oderus",
+      "country": "United States"
+    },
+    {
+      "id": "ofnu",
+      "nick": "ofnu",
+      "country": "New Zealand"
+    },
+    {
+      "id": "Olivia",
+      "nick": "Olivia",
+      "country": "Thailand"
+    },
+    {
+      "id": "olofmeister",
+      "nick": "olofmeister",
+      "country": "Sweden"
+    },
+    {
+      "id": "oSee",
+      "nick": "oSee",
+      "country": "United States"
+    },
+    {
+      "id": "oskar",
+      "nick": "oskar",
+      "country": "Czech Republic"
+    },
+    {
+      "id": "oskarish",
+      "nick": "oskarish",
+      "country": "Poland"
+    },
+    {
+      "id": "ottoNd",
+      "nick": "ottoNd",
+      "country": "Finland"
+    },
+    {
+      "id": "oxygeN",
+      "nick": "oxygeN",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "pancc",
+      "nick": "pancc",
+      "country": "Brazil"
+    },
+    {
+      "id": "pashaBiceps",
+      "nick": "pashaBiceps",
+      "country": "Poland"
+    },
+    {
+      "id": "PASHANOJ",
+      "nick": "PASHANOJ",
+      "country": "Russia"
+    },
+    {
+      "id": "Patitek",
+      "nick": "Patitek",
+      "country": "Poland"
+    },
+    {
+      "id": "Patsi",
+      "nick": "Patsi",
+      "country": "Russia"
+    },
+    {
+      "id": "paz",
+      "nick": "paz",
+      "country": "Turkey"
+    },
+    {
+      "id": "pecks",
+      "nick": "pecks",
+      "country": "Australia"
+    },
+    {
+      "id": "peet",
+      "nick": "peet",
+      "country": "Poland"
+    },
+    {
+      "id": "PERCY",
+      "nick": "PERCY",
+      "country": "Denmark"
+    },
+    {
+      "id": "Perfecto",
+      "nick": "Perfecto",
+      "country": "Russia"
+    },
+    {
+      "id": "pesadelo",
+      "nick": "pesadelo",
+      "country": "Brazil"
+    },
+    {
+      "id": "phr",
+      "nick": "phr",
+      "country": "Poland"
+    },
+    {
+      "id": "phzy",
+      "nick": "phzy",
+      "country": "Sweden"
+    },
+    {
+      "id": "pietola",
+      "nick": "pietola",
+      "country": "Finland"
+    },
+    {
+      "id": "Pimp",
+      "nick": "Pimp",
+      "country": "Denmark"
+    },
+    {
+      "id": "pita",
+      "nick": "pita",
+      "country": "Bosnia and Herzegovina"
+    },
+    {
+      "id": "PKL",
+      "nick": "PKL",
+      "country": "Brazil"
+    },
+    {
+      "id": "PlesseN",
+      "nick": "PlesseN",
+      "country": "Sweden"
+    },
+    {
+      "id": "Plopski",
+      "nick": "Plopski",
+      "country": "Sweden"
+    },
+    {
+      "id": "pNshr",
+      "nick": "pNshr",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "poizon",
+      "nick": "poizon",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "Polen",
+      "nick": "Polen",
+      "country": "United States"
+    },
+    {
+      "id": "Polly",
+      "nick": "Polly",
+      "country": "Norway"
+    },
+    {
+      "id": "Polt",
+      "nick": "Polt",
+      "country": "Russia"
+    },
+    {
+      "id": "ponczek",
+      "nick": "ponczek",
+      "country": "Poland"
+    },
+    {
+      "id": "pounh",
+      "nick": "pounh",
+      "country": "Lithuania"
+    },
+    {
+      "id": "PR1mE",
+      "nick": "PR1mE",
+      "country": "Denmark"
+    },
+    {
+      "id": "prb",
+      "nick": "prb",
+      "country": "Norway"
+    },
+    {
+      "id": "ProbLeM",
+      "nick": "ProbLeM",
+      "country": "Russia"
+    },
+    {
+      "id": "Professor_Chaos",
+      "nick": "Professor_Chaos",
+      "country": "United States"
+    },
+    {
+      "id": "pronax",
+      "nick": "pronax",
+      "country": "Sweden"
+    },
+    {
+      "id": "propleh",
+      "nick": "propleh",
+      "country": "Russia"
+    },
+    {
+      "id": "prt",
+      "nick": "prt",
+      "country": "Brazil"
+    },
+    {
+      "id": "Psycho",
+      "nick": "Psycho",
+      "country": "Ukraine"
+    },
+    {
+      "id": "PTC",
+      "nick": "PTC",
+      "country": "Thailand"
+    },
+    {
+      "id": "ptr",
+      "nick": "ptr",
+      "country": "United States"
+    },
+    {
+      "id": "Puls3",
+      "nick": "Puls3",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "PwnAlone",
+      "nick": "PwnAlone",
+      "country": "United States"
+    },
+    {
+      "id": "pyth",
+      "nick": "pyth",
+      "country": "Sweden"
+    },
+    {
+      "id": "pz",
+      "nick": "pz",
+      "country": "Australia"
+    },
+    {
+      "id": "Qikert",
+      "nick": "Qikert",
+      "country": "Kazakhstan"
+    },
+    {
+      "id": "QKA",
+      "nick": "QKA",
+      "country": "China"
+    },
+    {
+      "id": "qqGOD",
+      "nick": "qqGOD",
+      "country": "Thailand"
+    },
+    {
+      "id": "Queenix",
+      "nick": "Queenix",
+      "country": "Denmark"
+    },
+    {
+      "id": "queztone",
+      "nick": "queztone",
+      "country": "Slovakia"
+    },
+    {
+      "id": "quix",
+      "nick": "quix",
+      "country": "Sweden"
+    },
+    {
+      "id": "R0b3n",
+      "nick": "R0b3n",
+      "country": "Latvia"
+    },
+    {
+      "id": "r0bs3n",
+      "nick": "r0bs3n",
+      "country": "Germany"
+    },
+    {
+      "id": "r3salt",
+      "nick": "r3salt",
+      "country": "Russia"
+    },
+    {
+      "id": "raafa",
+      "nick": "raafa",
+      "country": "Brazil"
+    },
+    {
+      "id": "raalz",
+      "nick": "raalz",
+      "country": "Denmark"
+    },
+    {
+      "id": "racno",
+      "nick": "racno",
+      "country": "South Africa"
+    },
+    {
+      "id": "Radifaction",
+      "nick": "Radifaction",
+      "country": "Norway"
+    },
+    {
+      "id": "rafftu",
+      "nick": "rafftu",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "rAge",
+      "nick": "rAge",
+      "country": "Ukraine"
+    },
+    {
+      "id": "RAiLWAY",
+      "nick": "RAiLWAY",
+      "country": "Russia"
+    },
+    {
+      "id": "rain",
+      "nick": "rain",
+      "country": "Norway"
+    },
+    {
+      "id": "Rainwaker",
+      "nick": "Rainwaker",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "rallen",
+      "nick": "rallen",
+      "country": "Poland"
+    },
+    {
+      "id": "Ramz1kBO$$",
+      "nick": "Ramz1kBO$$",
+      "country": "Kazakhstan"
+    },
+    {
+      "id": "rbz",
+      "nick": "rbz",
+      "country": "Australia"
+    },
+    {
+      "id": "RCF",
+      "nick": "RCF",
+      "country": "Brazil"
+    },
+    {
+      "id": "realz1n",
+      "nick": "realz1n",
+      "country": "Brazil"
+    },
+    {
+      "id": "realziN",
+      "nick": "realziN",
+      "country": "Brazil"
+    },
+    {
+      "id": "reatz",
+      "nick": "reatz",
+      "country": "Poland"
+    },
+    {
+      "id": "REDSTAR",
+      "nick": "REDSTAR",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "refrezh",
+      "nick": "refrezh",
+      "country": "Denmark"
+    },
+    {
+      "id": "Relaxa",
+      "nick": "Relaxa",
+      "country": "Sweden"
+    },
+    {
+      "id": "reltuC",
+      "nick": "reltuC",
+      "country": "United States"
+    },
+    {
+      "id": "Relyks",
+      "nick": "Relyks",
+      "country": "United States"
+    },
+    {
+      "id": "repo",
+      "nick": "repo",
+      "country": "Poland"
+    },
+    {
+      "id": "reversive",
+      "nick": "reversive",
+      "country": "Argentina"
+    },
+    {
+      "id": "REZ",
+      "nick": "REZ",
+      "country": "Sweden"
+    },
+    {
+      "id": "Rickeh",
+      "nick": "Rickeh",
+      "country": "Australia"
+    },
+    {
+      "id": "rigoN",
+      "nick": "rigoN",
+      "country": "Switzerland"
+    },
+    {
+      "id": "RIKO",
+      "nick": "RIKO",
+      "country": "United States"
+    },
+    {
+      "id": "RiTz",
+      "nick": "RiTz",
+      "country": "India"
+    },
+    {
+      "id": "RiX",
+      "nick": "RiX",
+      "country": "India"
+    },
+    {
+      "id": "RIZZZ",
+      "nick": "RIZZZ",
+      "country": "Portugal"
+    },
+    {
+      "id": "rmn",
+      "nick": "rmn",
+      "country": "Portugal"
+    },
+    {
+      "id": "robiin",
+      "nick": "robiin",
+      "country": "Sweden"
+    },
+    {
+      "id": "ROBO",
+      "nick": "ROBO",
+      "country": "Belarus"
+    },
+    {
+      "id": "roca",
+      "nick": "roca",
+      "country": "United States"
+    },
+    {
+      "id": "Rock1nG",
+      "nick": "Rock1nG",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "roeJ",
+      "nick": "roeJ",
+      "country": "Denmark"
+    },
+    {
+      "id": "RoLEX",
+      "nick": "RoLEX",
+      "country": "Thailand"
+    },
+    {
+      "id": "roman",
+      "nick": "roman",
+      "country": "Belarus"
+    },
+    {
+      "id": "rommi",
+      "nick": "rommi",
+      "country": "Russia"
+    },
+    {
+      "id": "ropz",
+      "nick": "ropz",
+      "country": "Estonia"
+    },
+    {
+      "id": "roseau",
+      "nick": "roseau",
+      "country": "Indonesia"
+    },
+    {
+      "id": "rox",
+      "nick": "rox",
+      "country": "Argentina"
+    },
+    {
+      "id": "RpK",
+      "nick": "RpK",
+      "country": "France"
+    },
+    {
+      "id": "RUBINO",
+      "nick": "RUBINO",
+      "country": "Norway"
+    },
+    {
+      "id": "RuFire",
+      "nick": "RuFire",
+      "country": "Russia"
+    },
+    {
+      "id": "RUSH",
+      "nick": "RUSH",
+      "country": "United States"
+    },
+    {
+      "id": "RuStY",
+      "nick": "RuStY",
+      "country": "Sweden"
+    },
+    {
+      "id": "ryann",
+      "nick": "ryann",
+      "country": "United States"
+    },
+    {
+      "id": "ryotzz",
+      "nick": "ryotzz",
+      "country": "Brazil"
+    },
+    {
+      "id": "ryx",
+      "nick": "ryx",
+      "country": "United States"
+    },
+    {
+      "id": "Ryxxo",
+      "nick": "Ryxxo",
+      "country": "Denmark"
+    },
+    {
+      "id": "RZU",
+      "nick": "RZU",
+      "country": "United States"
+    },
+    {
+      "id": "S0tF1k",
+      "nick": "S0tF1k",
+      "country": "Russia"
+    },
+    {
+      "id": "s1mple",
+      "nick": "s1mple",
+      "country": "Ukraine"
+    },
+    {
+      "id": "s1n",
+      "nick": "s1n",
+      "country": "Germany"
+    },
+    {
+      "id": "s1ren",
+      "nick": "s1ren",
+      "country": "Russia"
+    },
+    {
+      "id": "SADDYX",
+      "nick": "SADDYX",
+      "country": "Finland"
+    },
+    {
+      "id": "saffee",
+      "nick": "saffee",
+      "country": "Brazil"
+    },
+    {
+      "id": "SAGGERTON",
+      "nick": "SAGGERTON",
+      "country": "Finland"
+    },
+    {
+      "id": "SANJI",
+      "nick": "SANJI",
+      "country": "Uzbekistan"
+    },
+    {
+      "id": "Sapec",
+      "nick": "Sapec",
+      "country": "Sweden"
+    },
+    {
+      "id": "Savage",
+      "nick": "Savage",
+      "country": "China"
+    },
+    {
+      "id": "sAw",
+      "nick": "sAw",
+      "country": "Finland"
+    },
+    {
+      "id": "schneider",
+      "nick": "schneider",
+      "country": null
+    },
+    {
+      "id": "ScreaM",
+      "nick": "ScreaM",
+      "country": "Belgium"
+    },
+    {
+      "id": "ScrunK",
+      "nick": "ScrunK",
+      "country": "Germany"
+    },
+    {
+      "id": "sdy",
+      "nick": "sdy",
+      "country": "Ukraine"
+    },
+    {
+      "id": "seang@res",
+      "nick": "seang@res",
+      "country": "United States"
+    },
+    {
+      "id": "seb",
+      "nick": "seb",
+      "country": "United States"
+    },
+    {
+      "id": "seized",
+      "nick": "seized",
+      "country": "Russia"
+    },
+    {
+      "id": "SEMINTE",
+      "nick": "SEMINTE",
+      "country": "Romania"
+    },
+    {
+      "id": "semphis",
+      "nick": "semphis",
+      "country": null
+    },
+    {
+      "id": "SEMPHIS",
+      "nick": "SEMPHIS",
+      "country": "Canada"
+    },
+    {
+      "id": "SENER1",
+      "nick": "SENER1",
+      "country": "Kosovo"
+    },
+    {
+      "id": "SENSEi",
+      "nick": "SENSEi",
+      "country": "Ukraine"
+    },
+    {
+      "id": "sergej",
+      "nick": "sergej",
+      "country": "Finland"
+    },
+    {
+      "id": "Sergiz",
+      "nick": "Sergiz",
+      "country": "Ukraine"
+    },
+    {
+      "id": "Sf",
+      "nick": "Sf",
+      "country": null
+    },
+    {
+      "id": "sgares",
+      "nick": "sgares",
+      "country": null
+    },
+    {
+      "id": "sh1ro",
+      "nick": "sh1ro",
+      "country": "Russia"
+    },
+    {
+      "id": "ShahZaM",
+      "nick": "ShahZaM",
+      "country": "United States"
+    },
+    {
+      "id": "Shakezullah",
+      "nick": "Shakezullah",
+      "country": "United States"
+    },
+    {
+      "id": "shalfey",
+      "nick": "shalfey",
+      "country": "Russia"
+    },
+    {
+      "id": "Shara",
+      "nick": "Shara",
+      "country": "Ukraine"
+    },
+    {
+      "id": "SHiPZ",
+      "nick": "SHiPZ",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "SHOCK",
+      "nick": "SHOCK",
+      "country": "Czech Republic"
+    },
+    {
+      "id": "shokz",
+      "nick": "shokz",
+      "country": "Estonia"
+    },
+    {
+      "id": "SHOOWTiME",
+      "nick": "SHOOWTiME",
+      "country": "Brazil"
+    },
+    {
+      "id": "shox",
+      "nick": "shox",
+      "country": "France"
+    },
+    {
+      "id": "shroud",
+      "nick": "shroud",
+      "country": "Canada"
+    },
+    {
+      "id": "shuadapai",
+      "nick": "shuadapai",
+      "country": "China"
+    },
+    {
+      "id": "shz",
+      "nick": "shz",
+      "country": "Brazil"
+    },
+    {
+      "id": "SicK",
+      "nick": "SicK",
+      "country": "United States"
+    },
+    {
+      "id": "Sico",
+      "nick": "Sico",
+      "country": "New Zealand"
+    },
+    {
+      "id": "Sidney",
+      "nick": "Sidney",
+      "country": "Poland"
+    },
+    {
+      "id": "SileNt",
+      "nick": "SileNt",
+      "country": "United States"
+    },
+    {
+      "id": "sinnopsyy",
+      "nick": "sinnopsyy",
+      "country": "Kosovo"
+    },
+    {
+      "id": "siuhy",
+      "nick": "siuhy",
+      "country": "Poland"
+    },
+    {
+      "id": "SIXER",
+      "nick": "SIXER",
+      "country": "France"
+    },
+    {
+      "id": "sjuush",
+      "nick": "sjuush",
+      "country": "Denmark"
+    },
+    {
+      "id": "sk0R",
+      "nick": "sk0R",
+      "country": "Mongolia"
+    },
+    {
+      "id": "Skadoodle",
+      "nick": "Skadoodle",
+      "country": "United States"
+    },
+    {
+      "id": "SkulL",
+      "nick": "SkulL",
+      "country": "Australia"
+    },
+    {
+      "id": "skullz",
+      "nick": "skullz",
+      "country": "Brazil"
+    },
+    {
+      "id": "Skurk",
+      "nick": "Skurk",
+      "country": "Norway"
+    },
+    {
+      "id": "SKYTTEN",
+      "nick": "SKYTTEN",
+      "country": "Sweden"
+    },
+    {
+      "id": "slaxz-",
+      "nick": "slaxz-",
+      "country": "Germany"
+    },
+    {
+      "id": "Slemmy",
+      "nick": "Slemmy",
+      "country": "United States"
+    },
+    {
+      "id": "sLowi",
+      "nick": "sLowi",
+      "country": "Finland"
+    },
+    {
+      "id": "SLOWLY",
+      "nick": "SLOWLY",
+      "country": "China"
+    },
+    {
+      "id": "smF",
+      "nick": "smF",
+      "country": "Denmark"
+    },
+    {
+      "id": "smike",
+      "nick": "smike",
+      "country": "Ukraine"
+    },
+    {
+      "id": "smiley",
+      "nick": "smiley",
+      "country": "Kazakhstan"
+    },
+    {
+      "id": "SmithZz",
+      "nick": "SmithZz",
+      "country": "France"
+    },
+    {
+      "id": "smooya",
+      "nick": "smooya",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "Snakes",
+      "nick": "Snakes",
+      "country": "United States"
+    },
+    {
+      "id": "Snappi",
+      "nick": "Snappi",
+      "country": "Denmark"
+    },
+    {
+      "id": "snatchie",
+      "nick": "snatchie",
+      "country": "Poland"
+    },
+    {
+      "id": "Snax",
+      "nick": "Snax",
+      "country": "Poland"
+    },
+    {
+      "id": "SnypeR",
+      "nick": "SnypeR",
+      "country": null
+    },
+    {
+      "id": "Sobol",
+      "nick": "Sobol",
+      "country": "Poland"
+    },
+    {
+      "id": "soju_j",
+      "nick": "soju_j",
+      "country": "New Zealand"
+    },
+    {
+      "id": "SOKER",
+      "nick": "SOKER",
+      "country": "Spain"
+    },
+    {
+      "id": "SolEk",
+      "nick": "SolEk",
+      "country": "Switzerland"
+    },
+    {
+      "id": "somebody",
+      "nick": "somebody",
+      "country": "China"
+    },
+    {
+      "id": "Sonic",
+      "nick": "Sonic",
+      "country": "South Africa"
+    },
+    {
+      "id": "sorrow",
+      "nick": "sorrow",
+      "country": "Kazakhstan"
+    },
+    {
+      "id": "Spargo",
+      "nick": "Spargo",
+      "country": "Finland"
+    },
+    {
+      "id": "spaze",
+      "nick": "spaze",
+      "country": "Russia"
+    },
+    {
+      "id": "speed4k",
+      "nick": "speed4k",
+      "country": "Russia"
+    },
+    {
+      "id": "SPELLAN",
+      "nick": "SPELLAN",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "Spiidi",
+      "nick": "Spiidi",
+      "country": "Germany"
+    },
+    {
+      "id": "spiker",
+      "nick": "spiker",
+      "country": "Russia"
+    },
+    {
+      "id": "Spinx",
+      "nick": "Spinx",
+      "country": "Israel"
+    },
+    {
+      "id": "splashske",
+      "nick": "splashske",
+      "country": "Singapore"
+    },
+    {
+      "id": "Spongey",
+      "nick": "Spongey",
+      "country": "United States"
+    },
+    {
+      "id": "SPUNJ",
+      "nick": "SPUNJ",
+      "country": null
+    },
+    {
+      "id": "spyleadeR",
+      "nick": "spyleadeR",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "stadodo",
+      "nick": "stadodo",
+      "country": "Portugal"
+    },
+    {
+      "id": "Staehr",
+      "nick": "Staehr",
+      "country": "Denmark"
+    },
+    {
+      "id": "stanislaw",
+      "nick": "stanislaw",
+      "country": "Canada"
+    },
+    {
+      "id": "starix",
+      "nick": "starix",
+      "country": "Ukraine"
+    },
+    {
+      "id": "stavn",
+      "nick": "stavn",
+      "country": "Denmark"
+    },
+    {
+      "id": "stavros",
+      "nick": "stavros",
+      "country": "Germany"
+    },
+    {
+      "id": "steel",
+      "nick": "steel",
+      "country": "Brazil"
+    },
+    {
+      "id": "stellar",
+      "nick": "stellar",
+      "country": "United States"
+    },
+    {
+      "id": "sterling",
+      "nick": "sterling",
+      "country": "New Zealand"
+    },
+    {
+      "id": "Stewie2K",
+      "nick": "Stewie2K",
+      "country": "United States"
+    },
+    {
+      "id": "stfN",
+      "nick": "stfN",
+      "country": "Germany"
+    },
+    {
+      "id": "stk",
+      "nick": "stk",
+      "country": "Thailand"
+    },
+    {
+      "id": "STOMP",
+      "nick": "STOMP",
+      "country": "Poland"
+    },
+    {
+      "id": "stonde",
+      "nick": "stonde",
+      "country": "Finland"
+    },
+    {
+      "id": "strux1",
+      "nick": "strux1",
+      "country": "Germany"
+    },
+    {
+      "id": "STYKO",
+      "nick": "STYKO",
+      "country": "Slovakia"
+    },
+    {
+      "id": "Subroza",
+      "nick": "Subroza",
+      "country": "Canada"
+    },
+    {
+      "id": "Summer",
+      "nick": "Summer",
+      "country": "China"
+    },
+    {
+      "id": "suNny",
+      "nick": "suNny",
+      "country": "Finland"
+    },
+    {
+      "id": "SunPayus",
+      "nick": "SunPayus",
+      "country": "Spain"
+    },
+    {
+      "id": "supra",
+      "nick": "supra",
+      "country": "Estonia"
+    },
+    {
+      "id": "Surreal",
+      "nick": "Surreal",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "svyat",
+      "nick": "svyat",
+      "country": "Russia"
+    },
+    {
+      "id": "swag",
+      "nick": "swag",
+      "country": "United States"
+    },
+    {
+      "id": "Swahn",
+      "nick": "Swahn",
+      "country": "United States"
+    },
+    {
+      "id": "Swisher",
+      "nick": "Swisher",
+      "country": "United States"
+    },
+    {
+      "id": "sXe",
+      "nick": "sXe",
+      "country": "Romania"
+    },
+    {
+      "id": "sycrone",
+      "nick": "sycrone",
+      "country": "Denmark"
+    },
+    {
+      "id": "syken",
+      "nick": "syken",
+      "country": "Germany"
+    },
+    {
+      "id": "syrsoN",
+      "nick": "syrsoN",
+      "country": "Germany"
+    },
+    {
+      "id": "szejn",
+      "nick": "szejn",
+      "country": "Poland"
+    },
+    {
+      "id": "SZPERO",
+      "nick": "SZPERO",
+      "country": "Poland"
+    },
+    {
+      "id": "t0rick",
+      "nick": "t0rick",
+      "country": "Azerbaijan"
+    },
+    {
+      "id": "tabseN",
+      "nick": "tabseN",
+      "country": "Germany"
+    },
+    {
+      "id": "TACO",
+      "nick": "TACO",
+      "country": "Brazil"
+    },
+    {
+      "id": "tahsiN",
+      "nick": "tahsiN",
+      "country": "Germany"
+    },
+    {
+      "id": "tarik",
+      "nick": "tarik",
+      "country": "United States"
+    },
+    {
+      "id": "tatazin",
+      "nick": "tatazin",
+      "country": "Brazil"
+    },
+    {
+      "id": "TaZ",
+      "nick": "TaZ",
+      "country": "Poland"
+    },
+    {
+      "id": "tb",
+      "nick": "tb",
+      "country": "China"
+    },
+    {
+      "id": "tecek",
+      "nick": "tecek",
+      "country": "Poland"
+    },
+    {
+      "id": "Techno",
+      "nick": "Techno",
+      "country": "Mongolia"
+    },
+    {
+      "id": "TenZ",
+      "nick": "TenZ",
+      "country": "Canada"
+    },
+    {
+      "id": "TENZKI",
+      "nick": "TENZKI",
+      "country": "Denmark"
+    },
+    {
+      "id": "TeSeS",
+      "nick": "TeSeS",
+      "country": "Denmark"
+    },
+    {
+      "id": "Texta",
+      "nick": "Texta",
+      "country": "Australia"
+    },
+    {
+      "id": "The eLiVe",
+      "nick": "The eLiVe",
+      "country": "Slovakia"
+    },
+    {
+      "id": "Thomas",
+      "nick": "Thomas",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "THREAT",
+      "nick": "THREAT",
+      "country": "Sweden"
+    },
+    {
+      "id": "tifa",
+      "nick": "tifa",
+      "country": "Brazil"
+    },
+    {
+      "id": "tiziaN",
+      "nick": "tiziaN",
+      "country": "Germany"
+    },
+    {
+      "id": "TMB",
+      "nick": "TMB",
+      "country": "Denmark"
+    },
+    {
+      "id": "to1nou",
+      "nick": "to1nou",
+      "country": "Belgium"
+    },
+    {
+      "id": "TOAO",
+      "nick": "TOAO",
+      "country": "Poland"
+    },
+    {
+      "id": "Tommy",
+      "nick": "Tommy",
+      "country": "Singapore"
+    },
+    {
+      "id": "tonyblack",
+      "nick": "tonyblack",
+      "country": "Russia"
+    },
+    {
+      "id": "topguN",
+      "nick": "topguN",
+      "country": "Australia"
+    },
+    {
+      "id": "TOR",
+      "nick": "TOR",
+      "country": "Thailand"
+    },
+    {
+      "id": "torben",
+      "nick": "torben",
+      "country": "Denmark"
+    },
+    {
+      "id": "torzsi",
+      "nick": "torzsi",
+      "country": "Hungary"
+    },
+    {
+      "id": "TRAVIS",
+      "nick": "TRAVIS",
+      "country": "Russia"
+    },
+    {
+      "id": "trk",
+      "nick": "trk",
+      "country": "Brazil"
+    },
+    {
+      "id": "Troubley",
+      "nick": "Troubley",
+      "country": "Germany"
+    },
+    {
+      "id": "truth",
+      "nick": "truth",
+      "country": "Norway"
+    },
+    {
+      "id": "try",
+      "nick": "try",
+      "country": "Argentina"
+    },
+    {
+      "id": "Tsogoo",
+      "nick": "Tsogoo",
+      "country": "Mongolia"
+    },
+    {
+      "id": "tucks",
+      "nick": "tucks",
+      "country": "Australia"
+    },
+    {
+      "id": "tutehen",
+      "nick": "tutehen",
+      "country": "Argentina"
+    },
+    {
+      "id": "Tuurtle",
+      "nick": "Tuurtle",
+      "country": "Brazil"
+    },
+    {
+      "id": "twist",
+      "nick": "twist",
+      "country": "Sweden"
+    },
+    {
+      "id": "Twista",
+      "nick": "Twista",
+      "country": "Finland"
+    },
+    {
+      "id": "Twistzz",
+      "nick": "Twistzz",
+      "country": "Canada"
+    },
+    {
+      "id": "Twixie",
+      "nick": "Twixie",
+      "country": "Finland"
+    },
+    {
+      "id": "ub1que",
+      "nick": "ub1que",
+      "country": "Russia"
+    },
+    {
+      "id": "Uber",
+      "nick": "Uber",
+      "country": "Canada"
+    },
+    {
+      "id": "uli",
+      "nick": "uli",
+      "country": "Finland"
+    },
+    {
+      "id": "ultra",
+      "nick": "ultra",
+      "country": "Norway"
+    },
+    {
+      "id": "uNdo",
+      "nick": "uNdo",
+      "country": "Belarus"
+    },
+    {
+      "id": "USTILO",
+      "nick": "USTILO",
+      "country": "Australia"
+    },
+    {
+      "id": "Uzzziii",
+      "nick": "Uzzziii",
+      "country": null
+    },
+    {
+      "id": "v1c7oR",
+      "nick": "v1c7oR",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "valde",
+      "nick": "valde",
+      "country": "Denmark"
+    },
+    {
+      "id": "Valiance",
+      "nick": "Valiance",
+      "country": "Australia"
+    },
+    {
+      "id": "vanity",
+      "nick": "vanity",
+      "country": "United States"
+    },
+    {
+      "id": "Vegi",
+      "nick": "Vegi",
+      "country": "Poland"
+    },
+    {
+      "id": "Vexite",
+      "nick": "Vexite",
+      "country": "Australia"
+    },
+    {
+      "id": "vice",
+      "nick": "vice",
+      "country": "United States"
+    },
+    {
+      "id": "VINI",
+      "nick": "VINI",
+      "country": "Brazil"
+    },
+    {
+      "id": "Viva",
+      "nick": "Viva",
+      "country": "China"
+    },
+    {
+      "id": "void",
+      "nick": "void",
+      "country": "Australia"
+    },
+    {
+      "id": "volt",
+      "nick": "volt",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "Voltage",
+      "nick": "Voltage",
+      "country": "United States"
+    },
+    {
+      "id": "vSa",
+      "nick": "vSa",
+      "country": "Canada"
+    },
+    {
+      "id": "vsm",
+      "nick": "vsm",
+      "country": "Brazil"
+    },
+    {
+      "id": "w0nderful",
+      "nick": "w0nderful",
+      "country": "Ukraine"
+    },
+    {
+      "id": "w1nt3r",
+      "nick": "w1nt3r",
+      "country": "Kazakhstan"
+    },
+    {
+      "id": "Walco",
+      "nick": "Walco",
+      "country": "Canada"
+    },
+    {
+      "id": "WARDELL",
+      "nick": "WARDELL",
+      "country": "Canada"
+    },
+    {
+      "id": "waterfaLLZ",
+      "nick": "waterfaLLZ",
+      "country": "Russia"
+    },
+    {
+      "id": "wayLander",
+      "nick": "wayLander",
+      "country": "Russia"
+    },
+    {
+      "id": "wiz",
+      "nick": "wiz",
+      "country": "United States"
+    },
+    {
+      "id": "WolfY",
+      "nick": "WolfY",
+      "country": "United States"
+    },
+    {
+      "id": "WOOD7",
+      "nick": "WOOD7",
+      "country": "Brazil"
+    },
+    {
+      "id": "WorldEdit",
+      "nick": "WorldEdit",
+      "country": "Russia"
+    },
+    {
+      "id": "Woro2k",
+      "nick": "Woro2k",
+      "country": "Ukraine"
+    },
+    {
+      "id": "woxic",
+      "nick": "woxic",
+      "country": "Turkey"
+    },
+    {
+      "id": "wrath",
+      "nick": "wrath",
+      "country": "United States"
+    },
+    {
+      "id": "xand",
+      "nick": "xand",
+      "country": "Brazil"
+    },
+    {
+      "id": "XANTARES",
+      "nick": "XANTARES",
+      "country": "Turkey"
+    },
+    {
+      "id": "xartE",
+      "nick": "xartE",
+      "country": "Finland"
+    },
+    {
+      "id": "xccurate",
+      "nick": "xccurate",
+      "country": "Indonesia"
+    },
+    {
+      "id": "xCeeD",
+      "nick": "xCeeD",
+      "country": "United States"
+    },
+    {
+      "id": "XELLOW",
+      "nick": "XELLOW",
+      "country": "Romania"
+    },
+    {
+      "id": "xelos",
+      "nick": "xelos",
+      "country": "Sweden"
+    },
+    {
+      "id": "xertioN",
+      "nick": "xertioN",
+      "country": "Israel"
+    },
+    {
+      "id": "xfl0ud",
+      "nick": "xfl0ud",
+      "country": "Turkey"
+    },
+    {
+      "id": "xiaosaGe",
+      "nick": "xiaosaGe",
+      "country": "China"
+    },
+    {
+      "id": "XigN",
+      "nick": "XigN",
+      "country": "Korea"
+    },
+    {
+      "id": "Xizt",
+      "nick": "Xizt",
+      "country": "Sweden"
+    },
+    {
+      "id": "xms",
+      "nick": "xms",
+      "country": "France"
+    },
+    {
+      "id": "Xp3",
+      "nick": "Xp3",
+      "country": "France"
+    },
+    {
+      "id": "xsepower",
+      "nick": "xsepower",
+      "country": "Russia"
+    },
+    {
+      "id": "xseveN",
+      "nick": "xseveN",
+      "country": "Finland"
+    },
+    {
+      "id": "Xyp9x",
+      "nick": "Xyp9x",
+      "country": "Denmark"
+    },
+    {
+      "id": "yam",
+      "nick": "yam",
+      "country": "Australia"
+    },
+    {
+      "id": "yay",
+      "nick": "yay",
+      "country": "United States"
+    },
+    {
+      "id": "YDNA",
+      "nick": "YDNA",
+      "country": "Australia"
+    },
+    {
+      "id": "YEKINDAR",
+      "nick": "YEKINDAR",
+      "country": "Latvia"
+    },
+    {
+      "id": "yel",
+      "nick": "yel",
+      "country": "Brazil"
+    },
+    {
+      "id": "YJ",
+      "nick": "YJ",
+      "country": "Brazil"
+    },
+    {
+      "id": "yuurih",
+      "nick": "yuurih",
+      "country": "Brazil"
+    },
+    {
+      "id": "ZEDKO",
+      "nick": "ZEDKO",
+      "country": "Czech Republic"
+    },
+    {
+      "id": "zeff",
+      "nick": "zeff",
+      "country": "Korea"
+    },
+    {
+      "id": "zehN",
+      "nick": "zehN",
+      "country": "Finland"
+    },
+    {
+      "id": "Zellsis",
+      "nick": "Zellsis",
+      "country": "United States"
+    },
+    {
+      "id": "zende",
+      "nick": "zende",
+      "country": "Sweden"
+    },
+    {
+      "id": "zeph",
+      "nick": "zeph",
+      "country": "Australia"
+    },
+    {
+      "id": "Zero",
+      "nick": "Zero",
+      "country": "Slovakia"
+    },
+    {
+      "id": "Zeus",
+      "nick": "Zeus",
+      "country": "Ukraine"
+    },
+    {
+      "id": "zEVES",
+      "nick": "zEVES",
+      "country": "Norway"
+    },
+    {
+      "id": "zevy",
+      "nick": "zevy",
+      "country": "Brazil"
+    },
+    {
+      "id": "zews",
+      "nick": "zews",
+      "country": "Brazil"
+    },
+    {
+      "id": "zewsy",
+      "nick": "zewsy",
+      "country": "New Zealand"
+    },
+    {
+      "id": "zhokiNg",
+      "nick": "zhokiNg",
+      "country": "China"
+    },
+    {
+      "id": "Zix",
+      "nick": "Zix",
+      "country": "Bulgaria"
+    },
+    {
+      "id": "znajder",
+      "nick": "znajder",
+      "country": "Sweden"
+    },
+    {
+      "id": "zonic",
+      "nick": "zonic",
+      "country": "Denmark"
+    },
+    {
+      "id": "ZOREE",
+      "nick": "ZOREE",
+      "country": "Finland"
+    },
+    {
+      "id": "zorte",
+      "nick": "zorte",
+      "country": "Russia"
+    },
+    {
+      "id": "zqkS",
+      "nick": "zqkS",
+      "country": "Brazil"
+    },
+    {
+      "id": "ztr",
+      "nick": "ztr",
+      "country": "Sweden"
+    },
+    {
+      "id": "Zyphon",
+      "nick": "Zyphon",
+      "country": "Denmark"
+    },
+    {
+      "id": "ZywOo",
+      "nick": "ZywOo",
+      "country": "France"
+    }
+  ]
+}

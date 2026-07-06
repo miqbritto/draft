@@ -1,0 +1,31 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    background-color: var(--color-surface);
+    border-bottom: 1px solid var(--color-border);
+    
+
+    .left {
+        display: flex;
+        margin-left: 12rem;
+        align-items: baseline;
+        gap: 10px;
+
+        h1 {
+            font-family: var(--font-display);
+            color: var(--color-primary);
+        }
+
+        h6 {
+            font-family: var(--font-body);
+            font-weight: 600;
+            letter-spacing: 0.12em;
+            color: var(--color-text);
+        }
+    }
+    
+}
+

@@ -1,0 +1,656 @@
+{
+  "teams": [
+    {
+      "id": "00nation",
+      "name": "00NATION",
+      "logo": "assets/images/teams/00nation.png",
+      "hltv_id": 11309
+    },
+    {
+      "id": "3dmax",
+      "name": "3DMAX",
+      "logo": "assets/images/teams/3dmax.png",
+      "hltv_id": 4914
+    },
+    {
+      "id": "9ine",
+      "name": "9INE",
+      "logo": "assets/images/teams/9ine.png",
+      "hltv_id": 10278
+    },
+    {
+      "id": "9z",
+      "name": "9z",
+      "logo": "assets/images/teams/9z.png",
+      "hltv_id": 9996
+    },
+    {
+      "id": "apeks",
+      "name": "Apeks",
+      "logo": "assets/images/teams/apeks.png",
+      "hltv_id": 9806
+    },
+    {
+      "id": "astana-dragons",
+      "name": "Astana Dragons",
+      "logo": "assets/images/teams/astana-dragons.png",
+      "hltv_id": 4984
+    },
+    {
+      "id": "astralis",
+      "name": "Astralis",
+      "logo": "assets/images/teams/astralis.svg",
+      "hltv_id": 6665
+    },
+    {
+      "id": "avangar",
+      "name": "AVANGAR",
+      "logo": "assets/images/teams/avangar.svg",
+      "hltv_id": 8120
+    },
+    {
+      "id": "b8",
+      "name": "B8",
+      "logo": "assets/images/teams/b8.png",
+      "hltv_id": 11241
+    },
+    {
+      "id": "bad-news-eagles",
+      "name": "Bad News Eagles",
+      "logo": "assets/images/teams/bad-news-eagles.png",
+      "hltv_id": 11518
+    },
+    {
+      "id": "big",
+      "name": "BIG",
+      "logo": "assets/images/teams/big.svg",
+      "hltv_id": 7532
+    },
+    {
+      "id": "bravado-gaming",
+      "name": "Bravado Gaming",
+      "logo": "assets/images/teams/bravado-gaming.png",
+      "hltv_id": 5158
+    },
+    {
+      "id": "clan-mystik",
+      "name": "Clan-Mystik",
+      "logo": "assets/images/teams/clan-mystik.svg",
+      "hltv_id": 4948
+    },
+    {
+      "id": "cloud9",
+      "name": "Cloud9",
+      "logo": "assets/images/teams/cloud9.svg",
+      "hltv_id": 5752
+    },
+    {
+      "id": "complexity-gaming",
+      "name": "compLexity Gaming",
+      "logo": "assets/images/teams/complexity-gaming.png",
+      "hltv_id": 5005
+    },
+    {
+      "id": "copenhagen-flames",
+      "name": "Copenhagen Flames",
+      "logo": "assets/images/teams/copenhagen-flames.png",
+      "hltv_id": 7461
+    },
+    {
+      "id": "copenhagen-wolves",
+      "name": "Copenhagen Wolves",
+      "logo": "assets/images/teams/copenhagen-wolves.svg",
+      "hltv_id": 12976
+    },
+    {
+      "id": "counter-logic-gaming",
+      "name": "Counter Logic Gaming",
+      "logo": "assets/images/teams/counter-logic-gaming.svg",
+      "hltv_id": 5974
+    },
+    {
+      "id": "cr4zy",
+      "name": "CR4ZY",
+      "logo": "assets/images/teams/cr4zy.svg",
+      "hltv_id": 10150
+    },
+    {
+      "id": "dat-team",
+      "name": "dAT Team",
+      "logo": "assets/images/teams/dat-team.png",
+      "hltv_id": 4592
+    },
+    {
+      "id": "dreameaters",
+      "name": "DreamEaters",
+      "logo": "assets/images/teams/dreameaters.svg",
+      "hltv_id": 8305
+    },
+    {
+      "id": "ecstatic",
+      "name": "ECSTATIC",
+      "logo": "assets/images/teams/ecstatic.png",
+      "hltv_id": 11419
+    },
+    {
+      "id": "ence",
+      "name": "ENCE",
+      "logo": "assets/images/teams/ence.svg",
+      "hltv_id": 4869
+    },
+    {
+      "id": "entropiq",
+      "name": "Entropiq",
+      "logo": "assets/images/teams/entropiq.png",
+      "hltv_id": 10831
+    },
+    {
+      "id": "epsilon-esports",
+      "name": "Epsilon eSports",
+      "logo": "assets/images/teams/epsilon-esports.svg",
+      "hltv_id": 6124
+    },
+    {
+      "id": "esc-gaming",
+      "name": "ESC Gaming",
+      "logo": "assets/images/teams/esc-gaming.png",
+      "hltv_id": 4532
+    },
+    {
+      "id": "eternal-fire",
+      "name": "Eternal Fire",
+      "logo": "assets/images/teams/eternal-fire.png",
+      "hltv_id": 11251
+    },
+    {
+      "id": "evil-geniuses",
+      "name": "Evil Geniuses",
+      "logo": "assets/images/teams/evil-geniuses.png",
+      "hltv_id": 10399
+    },
+    {
+      "id": "faze-clan",
+      "name": "FaZe Clan",
+      "logo": "assets/images/teams/faze-clan.png",
+      "hltv_id": 6667
+    },
+    {
+      "id": "flash",
+      "name": "Flash",
+      "logo": "assets/images/teams/flash.png",
+      "hltv_id": 7660
+    },
+    {
+      "id": "flipsid3-tactics",
+      "name": "Flipsid3 Tactics",
+      "logo": "assets/images/teams/flipsid3-tactics.svg",
+      "hltv_id": 5988
+    },
+    {
+      "id": "fluxo",
+      "name": "Fluxo",
+      "logo": "assets/images/teams/fluxo.png",
+      "hltv_id": 11837
+    },
+    {
+      "id": "fnatic",
+      "name": "Fnatic",
+      "logo": "assets/images/teams/fnatic.svg",
+      "hltv_id": 4991
+    },
+    {
+      "id": "forze",
+      "name": "FORZE",
+      "logo": "assets/images/teams/forze.png",
+      "hltv_id": 8135
+    },
+    {
+      "id": "furia-esports",
+      "name": "FURIA Esports",
+      "logo": "assets/images/teams/furia-esports.svg",
+      "hltv_id": 8297
+    },
+    {
+      "id": "g2-esports",
+      "name": "G2 Esports",
+      "logo": "assets/images/teams/g2-esports.png",
+      "hltv_id": 5995
+    },
+    {
+      "id": "gambit-esports",
+      "name": "Gambit Esports",
+      "logo": "assets/images/teams/gambit-esports.svg",
+      "hltv_id": 6651
+    },
+    {
+      "id": "gambit-gaming",
+      "name": "Gambit Gaming",
+      "logo": "assets/images/teams/gambit-gaming.svg",
+      "hltv_id": 6651
+    },
+    {
+      "id": "gamerlegion",
+      "name": "GamerLegion",
+      "logo": "assets/images/teams/gamerlegion.png",
+      "hltv_id": 9928
+    },
+    {
+      "id": "godsent",
+      "name": "GODSENT",
+      "logo": "assets/images/teams/godsent.svg",
+      "hltv_id": 6902
+    },
+    {
+      "id": "grayhound",
+      "name": "Grayhound",
+      "logo": "assets/images/teams/grayhound.svg",
+      "hltv_id": 8008
+    },
+    {
+      "id": "hellraisers",
+      "name": "HellRaisers",
+      "logo": "assets/images/teams/hellraisers.png",
+      "hltv_id": 5310
+    },
+    {
+      "id": "heroic",
+      "name": "Heroic",
+      "logo": "assets/images/teams/heroic.png",
+      "hltv_id": 7175
+    },
+    {
+      "id": "ibuypower",
+      "name": "iBUYPOWER",
+      "logo": "assets/images/teams/ibuypower.svg",
+      "hltv_id": 5231
+    },
+    {
+      "id": "ihc",
+      "name": "IHC",
+      "logo": "assets/images/teams/ihc.png",
+      "hltv_id": 11585
+    },
+    {
+      "id": "immortals",
+      "name": "Immortals",
+      "logo": "assets/images/teams/immortals.svg",
+      "hltv_id": 7010
+    },
+    {
+      "id": "imperial-esports",
+      "name": "Imperial Esports",
+      "logo": "assets/images/teams/imperial-esports.png",
+      "hltv_id": 9455
+    },
+    {
+      "id": "into-the-breach",
+      "name": "Into The Breach",
+      "logo": "assets/images/teams/into-the-breach.png",
+      "hltv_id": 11164
+    },
+    {
+      "id": "intz",
+      "name": "INTZ",
+      "logo": "assets/images/teams/intz.png",
+      "hltv_id": 6619
+    },
+    {
+      "id": "keyd-stars",
+      "name": "Keyd Stars",
+      "logo": "assets/images/teams/keyd-stars.png",
+      "hltv_id": 6033
+    },
+    {
+      "id": "kinguin",
+      "name": "Kinguin",
+      "logo": "assets/images/teams/kinguin.svg",
+      "hltv_id": 6134
+    },
+    {
+      "id": "lgb-esports",
+      "name": "LGB eSports",
+      "logo": "assets/images/teams/lgb-esports.svg",
+      "hltv_id": 5962
+    },
+    {
+      "id": "london-conspiracy",
+      "name": "London Conspiracy",
+      "logo": "assets/images/teams/london-conspiracy.svg",
+      "hltv_id": 5569
+    },
+    {
+      "id": "luminosity-gaming",
+      "name": "Luminosity Gaming",
+      "logo": "assets/images/teams/luminosity-gaming.svg",
+      "hltv_id": 6290
+    },
+    {
+      "id": "mibr",
+      "name": "MIBR",
+      "logo": "assets/images/teams/mibr.png",
+      "hltv_id": 9215
+    },
+    {
+      "id": "misfits",
+      "name": "Misfits",
+      "logo": "assets/images/teams/misfits.svg",
+      "hltv_id": 7557
+    },
+    {
+      "id": "monte",
+      "name": "Monte",
+      "logo": "assets/images/teams/monte.png",
+      "hltv_id": 11811
+    },
+    {
+      "id": "mousesports",
+      "name": "mousesports",
+      "logo": "assets/images/teams/mousesports.svg",
+      "hltv_id": 4465
+    },
+    {
+      "id": "mouz",
+      "name": "MOUZ",
+      "logo": "assets/images/teams/mouz.svg",
+      "hltv_id": 4494
+    },
+    {
+      "id": "movistar-riders",
+      "name": "Movistar Riders",
+      "logo": "assets/images/teams/movistar-riders.png",
+      "hltv_id": 8702
+    },
+    {
+      "id": "mts-gamegod-wolf",
+      "name": "MTS GameGod Wolf",
+      "logo": "assets/images/teams/mts-gamegod-wolf.webp"
+    },
+    {
+      "id": "myxmg",
+      "name": "myXMG",
+      "logo": "assets/images/teams/myxmg.svg",
+      "hltv_id": 6005
+    },
+    {
+      "id": "n-faculty",
+      "name": "n!faculty",
+      "logo": "assets/images/teams/n-faculty.svg",
+      "hltv_id": 4983
+    },
+    {
+      "id": "natus-vincere",
+      "name": "Natus Vincere",
+      "logo": "assets/images/teams/natus-vincere.svg",
+      "hltv_id": 4608
+    },
+    {
+      "id": "ninjas-in-pyjamas",
+      "name": "Ninjas in Pyjamas",
+      "logo": "assets/images/teams/ninjas-in-pyjamas.png",
+      "hltv_id": 4411
+    },
+    {
+      "id": "north",
+      "name": "North",
+      "logo": "assets/images/teams/north.svg",
+      "hltv_id": 7533
+    },
+    {
+      "id": "nrg-esports",
+      "name": "NRG Esports",
+      "logo": "assets/images/teams/nrg-esports.png",
+      "hltv_id": 6673
+    },
+    {
+      "id": "og",
+      "name": "OG",
+      "logo": "assets/images/teams/og.png",
+      "hltv_id": 10503
+    },
+    {
+      "id": "optic-gaming",
+      "name": "OpTic Gaming",
+      "logo": "assets/images/teams/optic-gaming.svg",
+      "hltv_id": 6615
+    },
+    {
+      "id": "outsiders",
+      "name": "Outsiders",
+      "logo": "assets/images/teams/outsiders.png",
+      "hltv_id": 11595
+    },
+    {
+      "id": "pain-gaming",
+      "name": "paiN Gaming",
+      "logo": "assets/images/teams/pain-gaming.svg",
+      "hltv_id": 4773
+    },
+    {
+      "id": "parivision",
+      "name": "PARIVISION",
+      "logo": "assets/images/teams/parivision.png",
+      "hltv_id": 12467
+    },
+    {
+      "id": "passion-ua",
+      "name": "Passion UA",
+      "logo": "assets/images/teams/passion-ua.png",
+      "hltv_id": 12426
+    },
+    {
+      "id": "penta-sports",
+      "name": "PENTA Sports",
+      "logo": "assets/images/teams/penta-sports.svg",
+      "hltv_id": 5395
+    },
+    {
+      "id": "planetkey-dynamics",
+      "name": "Planetkey Dynamics",
+      "logo": "assets/images/teams/planetkey-dynamics.svg",
+      "hltv_id": 5195
+    },
+    {
+      "id": "quantum-bellator-fire",
+      "name": "Quantum Bellator Fire",
+      "logo": "assets/images/teams/quantum-bellator-fire.svg",
+      "hltv_id": 7367
+    },
+    {
+      "id": "reason-gaming",
+      "name": "Reason Gaming",
+      "logo": "assets/images/teams/reason-gaming.svg",
+      "hltv_id": 5208
+    },
+    {
+      "id": "recursive-esports",
+      "name": "Recursive eSports",
+      "logo": "assets/images/teams/recursive-esports.svg",
+      "hltv_id": 4680
+    },
+    {
+      "id": "renegades",
+      "name": "Renegades",
+      "logo": "assets/images/teams/renegades.svg",
+      "hltv_id": 6211
+    },
+    {
+      "id": "rogue",
+      "name": "Rogue",
+      "logo": "assets/images/teams/rogue.svg",
+      "hltv_id": 7157
+    },
+    {
+      "id": "sharks",
+      "name": "Sharks",
+      "logo": "assets/images/teams/sharks.png",
+      "hltv_id": 8113
+    },
+    {
+      "id": "sk-gaming",
+      "name": "SK Gaming",
+      "logo": "assets/images/teams/sk-gaming.svg",
+      "hltv_id": 6137
+    },
+    {
+      "id": "space-soldiers",
+      "name": "Space Soldiers",
+      "logo": "assets/images/teams/space-soldiers.svg",
+      "hltv_id": 5929
+    },
+    {
+      "id": "splyce",
+      "name": "Splyce",
+      "logo": "assets/images/teams/splyce.svg",
+      "hltv_id": 6301
+    },
+    {
+      "id": "sprout",
+      "name": "Sprout",
+      "logo": "assets/images/teams/sprout.svg",
+      "hltv_id": 8637
+    },
+    {
+      "id": "syman",
+      "name": "Syman",
+      "logo": "assets/images/teams/syman.png",
+      "hltv_id": 8772
+    },
+    {
+      "id": "team-dignitas",
+      "name": "Team Dignitas",
+      "logo": "assets/images/teams/team-dignitas.png",
+      "hltv_id": 5422
+    },
+    {
+      "id": "team-ebettle",
+      "name": "Team eBettle",
+      "logo": "assets/images/teams/team-ebettle.svg",
+      "hltv_id": 6245
+    },
+    {
+      "id": "team-envyus",
+      "name": "Team EnVyUs",
+      "logo": "assets/images/teams/team-envyus.svg",
+      "hltv_id": 7856
+    },
+    {
+      "id": "team-falcons",
+      "name": "Team Falcons",
+      "logo": "assets/images/teams/team-falcons.png",
+      "hltv_id": 11283
+    },
+    {
+      "id": "team-immunity",
+      "name": "Team Immunity",
+      "logo": "assets/images/teams/team-immunity.svg",
+      "hltv_id": 4791
+    },
+    {
+      "id": "team-ldlc",
+      "name": "Team LDLC.com",
+      "logo": "assets/images/teams/team-ldlc.png",
+      "hltv_id": 4674
+    },
+    {
+      "id": "team-liquid",
+      "name": "Team Liquid",
+      "logo": "assets/images/teams/team-liquid.svg",
+      "hltv_id": 5973
+    },
+    {
+      "id": "team-solomid",
+      "name": "Team SoloMid",
+      "logo": "assets/images/teams/team-solomid.png",
+      "hltv_id": 5996
+    },
+    {
+      "id": "team-spirit",
+      "name": "Team Spirit",
+      "logo": "assets/images/teams/team-spirit.png",
+      "hltv_id": 7020
+    },
+    {
+      "id": "team-vitality",
+      "name": "Team Vitality",
+      "logo": "assets/images/teams/team-vitality.png",
+      "hltv_id": 9565
+    },
+    {
+      "id": "the-mongolz",
+      "name": "The MongolZ",
+      "logo": "assets/images/teams/the-mongolz.png",
+      "hltv_id": 6248
+    },
+    {
+      "id": "titan",
+      "name": "Titan",
+      "logo": "assets/images/teams/titan.svg",
+      "hltv_id": 9845
+    },
+    {
+      "id": "tyloo",
+      "name": "TYLOO",
+      "logo": "assets/images/teams/tyloo.svg",
+      "hltv_id": 4863
+    },
+    {
+      "id": "universal-soldiers",
+      "name": "Universal Soldiers",
+      "logo": "assets/images/teams/universal-soldiers.png"
+    },
+    {
+      "id": "vega-squadron",
+      "name": "Vega Squadron",
+      "logo": "assets/images/teams/vega-squadron.svg",
+      "hltv_id": 6094
+    },
+    {
+      "id": "verygames",
+      "name": "VeryGames",
+      "logo": "assets/images/teams/verygames.svg",
+      "hltv_id": 4467
+    },
+    {
+      "id": "vexed-gaming",
+      "name": "Vexed Gaming",
+      "logo": "assets/images/teams/vexed-gaming.svg",
+      "hltv_id": 6375
+    },
+    {
+      "id": "vici",
+      "name": "ViCi",
+      "logo": "assets/images/teams/vici.svg",
+      "hltv_id": 7606
+    },
+    {
+      "id": "virtus-pro",
+      "name": "Virtus.pro",
+      "logo": "assets/images/teams/virtus-pro.svg",
+      "hltv_id": 5378
+    },
+    {
+      "id": "vox-eminor",
+      "name": "Vox Eminor",
+      "logo": "assets/images/teams/vox-eminor.png",
+      "hltv_id": 4784
+    },
+    {
+      "id": "wildcard",
+      "name": "Wildcard",
+      "logo": "assets/images/teams/wildcard.png",
+      "hltv_id": 12257
+    },
+    {
+      "id": "winstrike-team",
+      "name": "Winstrike Team",
+      "logo": "assets/images/teams/winstrike-team.svg",
+      "hltv_id": 9183
+    },
+    {
+      "id": "xapso",
+      "name": "Xapso",
+      "logo": "assets/images/teams/xapso.svg",
+      "hltv_id": 5316
+    }
+  ]
+}
