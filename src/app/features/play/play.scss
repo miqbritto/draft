@@ -1,6 +1,6 @@
 .main-section {
   display: grid;
-  grid-template-columns: 260px 0.5fr 240px;
+  grid-template-columns: 300px 0.5fr 240px;
   gap: 1.25rem;
   align-items: start;
   justify-content: center;
@@ -16,6 +16,17 @@
   display: flex;
   flex-direction: column;
   gap: 1.25rem;
+  position: relative;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 5px;
+    background: linear-gradient(90deg, var(--color-primary), var(--color-text-contrast));
+  }
 }
 
 .logo-card {
@@ -53,14 +64,8 @@
     rgba(26, 23, 20, 0.06) 24px
   );
   border: 1px dashed var(--line);
+  border-left: 3px dashed var(--color-primary-light);
 
-  &:first-child {
-    border-left: 3px dashed rgba(201, 79, 42, 0.35);
-  }
-
-  &:nth-child(2) {
-    border-left: 3px dashed rgba(47, 84, 150, 0.35);
-  }
 }
 
 .catalog {
@@ -71,7 +76,7 @@
 
 .catalog-card {
   aspect-ratio: 16 / 10;
-  background-color: var(--panel);
+  background: var(--paper-light);
   border: 1px solid var(--line);
   padding: 0.5rem;
 }
@@ -94,7 +99,7 @@
 
 .draft-btn {
   background-color: var(--color-primary);
-  border: 1px solid var(--color-primary);
+  border: 1px solid var(--color-primary-active);
   border-bottom: 3px solid var(--color-primary-active);
   color: white;
   font-family: var(--font-display);
@@ -110,5 +115,20 @@
   &:active {
     transform: translateY(2px);
   }
+}
+
+.panel--center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5rem;
+  background: var(--paper-light);
+  border: 3px solid var(--line);
+}
+
+.container-center {
+  padding: 5rem;
+  border: 1px dashed var(--line);
+
 }
 
