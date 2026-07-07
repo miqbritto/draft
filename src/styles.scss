@@ -19,14 +19,19 @@ html {
 }
 
 :root {
-  /* === Backround === */
+  /* === Background === */
   --color-background: #e8e0d2;
   --color-surface: #f6f1e8;
-  --color-suface-secondary: #ddd3c2;
+  --color-surface-secondary: #ddd3c2;
+  --line: rgba(26, 23, 20, 0.22);
+  --panel: #faf7f2;
+  --paper-light: #f6f1e8;
 
   /* === Text === */
   --color-text: #332b25;
   --color-text-secondary: #6d6256;
+  --color-text-contrast: #2f5496;
+  --color-text-contrast-hover: #244278;
   --font-display: 'Barlow Condensed', sans-serif;
   --font-body: 'IBM Plex Sans', sans-serif;
 

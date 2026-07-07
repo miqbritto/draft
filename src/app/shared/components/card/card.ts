@@ -11,6 +11,7 @@ import {MatCardModule} from '@angular/material/card';
 })
 export class Card {
 
-  height = input('300px')
-  width = input('400px')
+  height = input('300px');
+  width = input('400px');
+  background_color = input('var(--color-surface)');
 }

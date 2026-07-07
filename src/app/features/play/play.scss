@@ -1,0 +1,114 @@
+.main-section {
+  display: grid;
+  grid-template-columns: 260px 0.5fr 240px;
+  gap: 1.25rem;
+  align-items: start;
+  justify-content: center;
+}
+
+.panel {
+  border: 1px solid var(--line);
+  background-color: var(--panel);
+  padding: 1rem;
+}
+
+.panel--left {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.logo-card {
+  padding: 1rem;
+  background: var(--paper-light);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow-sm);
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card_title {
+  font-family: var(--font-display);
+  color: var(--color-text);
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 0.075rem;
+}
+
+.card_subtitle {
+  font-family: var(--font-display);
+  color: var(--color-text-secondary);
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.logo-card__ghost {
+
+  aspect-ratio: 16 / 10;
+  margin-top: 12px;
+  background: repeating-linear-gradient(
+    -45deg,
+    rgba(26, 23, 20, 0.03),
+    rgba(26, 23, 20, 0.06) 12px,
+    rgba(26, 23, 20, 0.03) 12px,
+    rgba(26, 23, 20, 0.06) 24px
+  );
+  border: 1px dashed var(--line);
+
+  &:first-child {
+    border-left: 3px dashed rgba(201, 79, 42, 0.35);
+  }
+
+  &:nth-child(2) {
+    border-left: 3px dashed rgba(47, 84, 150, 0.35);
+  }
+}
+
+.catalog {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.catalog-card {
+  aspect-ratio: 16 / 10;
+  background-color: var(--panel);
+  border: 1px solid var(--line);
+  padding: 0.5rem;
+}
+
+.catalog-number {
+  color: var(--color-text-contrast);
+  font-family: var(--font-display);
+  font-size: 1.625rem;
+  font-weight: 700;
+  line-height: 0.05;
+}
+
+.catalog_subtitle {
+  color: var(--color-text-secondary);
+  font-family: var(--font-display);
+  font-size: 12px;
+  letter-spacing: 0.075rem;
+  text-transform: uppercase;
+}
+
+.draft-btn {
+  background-color: var(--color-primary);
+  border: 1px solid var(--color-primary);
+  border-bottom: 3px solid var(--color-primary-active);
+  color: white;
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 700;
+  padding: 1rem;
+
+  &:hover {
+    filter: brightness(1.06);
+    transform: translateY(-1px);
+  }
+
+  &:active {
+    transform: translateY(2px);
+  }
+}
+
