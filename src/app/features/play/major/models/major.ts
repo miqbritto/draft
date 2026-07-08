@@ -4,7 +4,7 @@ export interface Major {
     year: number,
     icon: string,
     team_ids: string[],
-    winner: string
+    winner_team_id: string
 }
 
 export interface MajorData {
