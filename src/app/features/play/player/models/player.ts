@@ -1,4 +1,5 @@
-interface Player { 
+export interface Player {
     id: string,
-    country: string
+    nick: string,
+    country: string | null
 }

@@ -7,11 +7,7 @@ import { Team } from '../models/team';
 })
 export class TeamService {
 
-  readonly teams: Team[];
-
-  constructor() {
-    this.teams = teamsData.teams;
-  }
+  readonly teams: Team[] = teamsData.teams;
 
   getById(id: string): Team | undefined {
     return this.teams.find( t => t.id === id);

@@ -7,11 +7,7 @@ import { Major } from '../models/major';
 })
 export class MajorService {
 
-  readonly majors: Major[];
-
-  constructor() {
-    this.majors = majorsData.majors;
-  }
+  readonly majors: Major[] = majorsData.majors;
 
   getAll(): Major[] {
     return [...this.majors];
