@@ -1,26 +1,42 @@
 <div class="main-section">
+  @let result = selectedDrawn();
+
   <aside class="panel panel--left">
     <div class="logo-card">
       <h2 class="card_title">MAJOR</h2>
       <h2 class="card_subtitle">
-        {{selectedMajor()?.name}}
+        {{result?.major?.name}}
       </h2>
       <div class="logo-card__ghost">
-        @if (selectedMajor(); as major) {
+        @if (result) {
         <img
-        [src]="major.icon"
+        [src]="result.major.icon"
         >
         }
       </div>
       <div class="logo-card__ghost">
-        @if (selectedTeam(); as team) {
+        @if (result) {
           <img
-          [src]="team.logo"
+          [src]="result.team.logo"
           >
         }
       </div>
-      <h2 class="card_subtitle">{{selectedTeam()?.name}}</h2>
+      <h2 class="card_subtitle">{{result?.team?.name}}</h2>
     </div>
+
+    @if (result) {
+      <div class="roaster">
+        @for (player of result.players; track player.nick) {
+          <app-player-card
+          [nick]="player.nick"
+          [score]="player.score"
+          />
+
+        }
+
+      </div>
+    }
+
 
     <h2 class="card_title">Catálogo</h2>
     <div class="catalog">
