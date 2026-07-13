@@ -9,7 +9,8 @@ import { PlayerCard } from './player/components/player-card/player-card';
 
 export interface DrawnPlayer {
   nick: string,
-  score: number
+  score: number,
+  roles: string
 }
 
 export interface Drawn {
@@ -45,7 +46,8 @@ export class Play {
 
         return [{
           nick: player!.nick,
-          score: p.score
+          score: p.score,
+          roles: p.roles.join("/")
         }]
       });
 

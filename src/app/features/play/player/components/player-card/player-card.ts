@@ -1,5 +1,4 @@
 import { Component, inject, input } from '@angular/core';
-import { PlayerService } from '../../services/player.service';
 
 @Component({
   selector: 'app-player-card',
@@ -11,7 +10,7 @@ export class PlayerCard {
 
   nick = input<string>();
   score = input<number>();
-
+  role = input<string>();
 
 
 }

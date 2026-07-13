@@ -10,6 +10,7 @@
   border: 1px solid var(--line);
   background-color: var(--panel);
   padding: 1rem;
+  object-fit: contain;
 }
 
 .panel--left {
@@ -17,6 +18,7 @@
   flex-direction: column;
   gap: 1.25rem;
   position: relative;
+  object-fit: contain;
 
   &::before {
     content: '';
