@@ -28,11 +28,12 @@
       <div class="roaster">
         @for (player of result.players; track player.nick) {
           <app-player-card
-          [nick]="player.nick"
-          [score]="player.score"
-          [role]="player.roles"
+          [player]="player"
+          [active]="activePlayer()?.nick === player.nick"
+          [disabled]="activePlayer() !== null && activePlayer()?.nick !== player.nick"
+          (addToTeam)="addPlayer($event)"
+          (cardClick)="togglePlayer(player)"
           />
-
         }
 
       </div>
@@ -56,10 +57,39 @@
   </aside>
 
   <section class="panel panel--center">
-    <div class="container-center">
-      <h1 class="card_title">PRONTO PRA SORTEAR</h1>
-    </div>
+
+
+      <div class="header">
+        <div class="header__left">
+          <h4>FORMAÇÃO</h4>
+          <h1>TEAM NAME GRANDÃO</h1>
+        </div>
+        <div class="header__right">
+          <span [class.active]="team()[0] !== null"></span>
+          <span [class.active]="team()[1] !== null"></span>
+          <span [class.active]="team()[2] !== null"></span>
+          <span [class.active]="team()[3] !== null"></span>
+          <span [class.active]="team()[4] !== null"></span>
+        </div>
+      </div>
+
+      <div class="player_roster">
+        <span class="circle" aria-hidden="true"></span>
+
+        @for (player of team(); track $index) {
+          <div [class]="'slot slot-' + ($index + 1)">
+            @if (player) {
+              <span class="slot-name">{{ player.nick }}</span>
+              <span class="slot-role">{{ player.roles }}</span>
+              <span class="slot-score">{{ player.score }}</span>
+            }
+          </div>
+        }
+      </div>
+
+
   </section>
+
   <section class="panel panel--right"></section>
 </div>
 

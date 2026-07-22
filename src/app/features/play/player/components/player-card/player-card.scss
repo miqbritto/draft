@@ -9,12 +9,30 @@
   justify-content: space-between;
   object-fit: contain;
   align-items: center;
+  cursor: pointer;
 
-  &:hover{
+  &.active {
     background-color: var(--color-primary);
     color: #fff;
   }
 
+  &.disabled {
+    opacity: .4;
+    pointer-events: none;
+
+    .player_roles {
+      color: inherit;
+    }
+  }
+
+  &:hover {
+    background-color: var(--color-primary);
+    color: #fff;
+
+    .player_roles {
+      color: inherit;
+    }
+  }
 }
 
 .player_name {

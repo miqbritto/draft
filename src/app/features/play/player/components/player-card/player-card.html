@@ -1,7 +1,7 @@
-<button type="button" class="player_card">
-  <span class="player_name">{{nick()}}</span>
+<button type="button" class="player_card" (click)="onClick(); !disabled() && cardClick.emit()" [class.active]="active()" [class.disabled]="disabled()">
+  <span class="player_name">{{player().nick}}</span>
   <div class="right-side">
-    <span class="player_roles">{{role()}}</span>
-    <span class="player_score">{{score()}}</span>
+    <span class="player_roles">{{player().roles}}</span>
+    <span class="player_score">{{player().score}}</span>
   </div>
 </button>

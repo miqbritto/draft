@@ -35,8 +35,47 @@ export class Play {
   selectedTeam = signal<Team | null>(null);
   selectedMajor = signal<Major | null>(null);
   selectedDrawn = signal<Drawn | null>(null);
+  activePlayer = signal<DrawnPlayer | null>(null);
+  team = signal<(DrawnPlayer | null)[]>([
+    null,
+    null,
+    null,
+    null,
+    null
+  ])
+
+  allowedRoles = [
+    ['AWPER'],
+    ['Rifler'],
+    ['IGL'],
+    ['Rifler'],
+    ['Rifler']
+  ];
+
+  canFitInSlot(player: DrawnPlayer, slotIndex: number): boolean {
+    return this.allowedRoles[slotIndex].includes(player.roles);
+  }
+
+  togglePlayer(player: DrawnPlayer){
+    this.activePlayer.update(current => current === player ? null : player);
+  }
+
+  addPlayer(player: DrawnPlayer){
+    const team = [...this.team()];
+
+    const emptyIndex = team.findIndex(p => p === null);
+
+    if (emptyIndex === -1) return
+
+    team[emptyIndex] = player;
+
+    this.team.set(team);
+
+    return player;
+  }
 
   drawn(): void {
+    this.activePlayer.set(null);
     const major = this.majorService.getRandom();
     const team = this.teamService.getByRandomIds(major.team_ids);
     const players = this.playerService

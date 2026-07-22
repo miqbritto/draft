@@ -1,4 +1,5 @@
-import { Component, inject, input } from '@angular/core';
+import { Component, inject, input, output, signal } from '@angular/core';
+import { DrawnPlayer } from '../../../play';
 
 @Component({
   selector: 'app-player-card',
@@ -8,9 +9,19 @@ import { Component, inject, input } from '@angular/core';
 })
 export class PlayerCard {
 
-  nick = input<string>();
-  score = input<number>();
-  role = input<string>();
+  player = input.required<DrawnPlayer>();
+  disabled = input<boolean>(false);
+  active = input<boolean>(false);
+
+  addToTeam = output<DrawnPlayer>();
+
+  cardClick = output<void>();
+
+  onClick() {
+    this.addToTeam.emit(this.player())
+  }
+
+
 
 
 }
